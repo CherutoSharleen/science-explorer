@@ -1,0 +1,5 @@
+*.html -text
+*.css -text
+*.js -text
+*.json -text
+*.pdf -text
