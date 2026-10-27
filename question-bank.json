@@ -1,0 +1,1048 @@
+{
+  "units": [
+    {
+      "title": "Particles & states",
+      "goal": "Describe how particles behave in solids, liquids and gases.",
+      "text": [
+        "Matter is made of tiny particles. A solid has closely packed particles that vibrate around fixed positions. This gives it a fixed shape and approximately fixed volume.",
+        "In a liquid, particles remain close together but can move past one another. A liquid flows, keeps approximately the same volume and takes the shape of its container.",
+        "Gas particles are widely separated and move randomly. A gas spreads to fill its container and is much easier to compress than a liquid or solid.",
+        "Diffusion is the net spreading of particles from a region of higher concentration to a region of lower concentration because of random motion. It can happen without stirring.",
+        "Heating generally increases particles' average kinetic energy when temperature rises. Particles themselves do not get bigger when a substance expands."
+      ],
+      "challenge": "Explain why air can be squeezed in a sealed syringe more easily than water. Use particle spacing, not particle size."
+    },
+    {
+      "title": "Changes of state",
+      "goal": "Explain state changes and interpret a simple heating curve.",
+      "text": [
+        "Melting changes a solid to a liquid; freezing changes a liquid to a solid. Evaporation and boiling change liquid to gas. Condensation changes gas to liquid. These are physical changes: the substance keeps its chemical identity.",
+        "Evaporation happens at a liquid's surface and can occur below its boiling point. Boiling occurs throughout the liquid when conditions allow vapour bubbles to form and grow.",
+        "For pure water at standard atmospheric pressure, melting occurs at about 0 degrees Celsius and boiling at about 100 degrees Celsius. Pressure matters: water can boil at a lower temperature at higher altitude.",
+        "On an ideal heating curve for a pure substance at constant pressure, sloping sections show temperature increasing within one state. Flat sections show melting or boiling while energy changes particle arrangement and separation rather than increasing average kinetic energy.",
+        "A heating curve's horizontal axis can represent time only when the heating rate is suitably controlled. Our diagram uses energy supplied and is a simplified model, not measured experimental data."
+      ],
+      "challenge": "Ice is melting while energy is still supplied. Why can its temperature stay steady until the ice has melted?"
+    },
+    {
+      "title": "Purity & temperature",
+      "goal": "Explain typical effects of impurities on melting and boiling.",
+      "text": [
+        "A pure substance contains a single chemical substance. Under fixed conditions it has characteristic melting and boiling behaviour. A mixture contains more than one substance.",
+        "A dissolved non-volatile solute such as salt generally raises water's boiling point compared with pure water at the same pressure. 'Non-volatile' means the solute does not readily enter the vapour under these conditions.",
+        "Suitable dissolved impurities generally lower the freezing point. Impure solids commonly melt over a range and at a lower temperature than the corresponding pure solid. Not every possible impurity has the same effect.",
+        "Make a fair comparison: use the same pressure, comparable apparatus and a controlled method. Record repeated temperature readings and do not invent experimental results.",
+        "Heating investigations belong in a supervised laboratory. Learners can explore supplied data instead. Never taste laboratory samples, touch hot containers or heat sealed containers."
+      ],
+      "challenge": "A claim says 'all impurities lower boiling points'. Correct the claim and state the conditions that make your comparison fair."
+    },
+    {
+      "title": "Physical or chemical?",
+      "goal": "Classify changes using evidence of new substances.",
+      "text": [
+        "A physical change alters state, shape, size or distribution without making a new chemical substance. Melting ice, cutting paper and dissolving sugar in water are examples.",
+        "A chemical change forms one or more new substances. Rusting iron, burning wood and cooking an egg involve chemical changes.",
+        "Reversibility is a clue, not the definition. Cutting paper is physical even though putting the original sheet back together is difficult. Some chemical reactions can also be reversed under suitable conditions.",
+        "Gas production, colour change, a precipitate, light or temperature change can suggest a reaction, but a single observation is not always proof. Boiling produces bubbles without forming a new substance.",
+        "Compare what substances existed before and after the change. Use several observations and appropriate scientific knowledge; do not identify unknown substances by tasting or directly smelling them."
+      ],
+      "challenge": "A friend says cutting paper must be chemical because it is hard to reverse. Give a better test and explain your classification."
+    },
+    {
+      "title": "Science in daily life",
+      "goal": "Apply state-change ideas safely and explain useful changes.",
+      "text": [
+        "Wet clothes dry as water evaporates. Air movement, a larger exposed surface and suitable warmer conditions can increase drying rate.",
+        "Sweat evaporation transfers energy away from the skin and helps cool the body. Drink safe water and avoid unsafe heat exposure; this is an explanation, not a medical treatment.",
+        "Freezing food slows many processes involved in spoilage, but does not sterilise food. Safe storage and handling remain essential.",
+        "Metal casting uses melting followed by solidification. This is industrial work, not a home experiment. Cooking can involve both physical state changes and chemical changes.",
+        "Try a safe observation: put an ice cube in a clean cup on a tray at room temperature. Record its appearance every two minutes. Do not use flames, boiling water or sealed containers. Explain what changes and what stays the same."
+      ],
+      "challenge": "Design a fair comparison of drying on two cloths. Change one factor, keep the others similar, record observations and explain the particles' role."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "unit": 0,
+      "prompt": "Which state normally has a fixed shape?",
+      "answer": "Solid",
+      "explanation": "Solid particles vibrate around fixed positions.",
+      "options": [
+        "Liquid",
+        "Gas",
+        "All three",
+        "Solid"
+      ]
+    },
+    {
+      "id": 2,
+      "unit": 0,
+      "prompt": "Which state fills all the available space in a container?",
+      "answer": "Gas",
+      "explanation": "Gas particles move randomly through the available space.",
+      "options": [
+        "Liquid",
+        "Ice only",
+        "Gas",
+        "Solid"
+      ]
+    },
+    {
+      "id": 3,
+      "unit": 0,
+      "prompt": "What do particles in a solid do?",
+      "answer": "Vibrate around fixed positions",
+      "explanation": "A solid's particles move, but remain near fixed positions.",
+      "options": [
+        "Disappear",
+        "Vibrate around fixed positions",
+        "Remain completely still",
+        "Travel freely across the room"
+      ]
+    },
+    {
+      "id": 4,
+      "unit": 0,
+      "prompt": "Why is a gas relatively easy to compress?",
+      "answer": "There is much space between its particles",
+      "explanation": "Compression mainly reduces the gaps between gas particles.",
+      "options": [
+        "There is much space between its particles",
+        "Its particles are soft",
+        "Its particles shrink",
+        "It has no particles"
+      ]
+    },
+    {
+      "id": 5,
+      "unit": 0,
+      "prompt": "Which description best fits a liquid?",
+      "answer": "Fixed volume but no fixed shape",
+      "explanation": "A liquid flows while retaining approximately the same volume.",
+      "options": [
+        "Fixed shape but no fixed volume",
+        "No mass",
+        "Widely separated particles",
+        "Fixed volume but no fixed shape"
+      ]
+    },
+    {
+      "id": 6,
+      "unit": 0,
+      "prompt": "Ink spreads through still water mainly because of what process?",
+      "answer": "Diffusion",
+      "explanation": "Random particle motion produces net spreading.",
+      "options": [
+        "Condensation",
+        "Rusting",
+        "Diffusion",
+        "Freezing"
+      ]
+    },
+    {
+      "id": 7,
+      "unit": 0,
+      "prompt": "When temperature rises, average particle kinetic energy generally does what?",
+      "answer": "Increases",
+      "explanation": "Temperature is related to average particle kinetic energy.",
+      "options": [
+        "Turns into mass",
+        "Increases",
+        "Decreases",
+        "Becomes zero"
+      ]
+    },
+    {
+      "id": 8,
+      "unit": 0,
+      "prompt": "During thermal expansion, what mainly changes?",
+      "answer": "Average particle separation",
+      "explanation": "Expansion is not caused by individual particles becoming larger.",
+      "options": [
+        "Average particle separation",
+        "Size of each particle",
+        "Number of atoms in each particle",
+        "Identity of the substance"
+      ]
+    },
+    {
+      "id": 9,
+      "unit": 0,
+      "prompt": "Give the three common states of matter.",
+      "answer": "Solid, liquid and gas.",
+      "explanation": "Water can occur as ice, liquid water and water vapour."
+    },
+    {
+      "id": 10,
+      "unit": 0,
+      "prompt": "Why does a liquid take the shape of its container?",
+      "answer": "Its particles can move past one another.",
+      "explanation": "The particles stay close but are not locked into fixed positions."
+    },
+    {
+      "id": 11,
+      "unit": 0,
+      "prompt": "Why does a solid retain its shape?",
+      "answer": "Its particles remain near fixed positions, held by strong attractions.",
+      "explanation": "Vibration does not normally let the whole structure flow."
+    },
+    {
+      "id": 12,
+      "unit": 0,
+      "prompt": "Describe gas particle motion.",
+      "answer": "Particles move rapidly and randomly, colliding with one another and container walls.",
+      "explanation": "They are not arranged in a fixed pattern."
+    },
+    {
+      "id": 13,
+      "unit": 0,
+      "prompt": "Does diffusion require stirring? Explain.",
+      "answer": "No. Particles move randomly even without stirring.",
+      "explanation": "Stirring can mix substances faster, but is not the definition of diffusion."
+    },
+    {
+      "id": 14,
+      "unit": 0,
+      "prompt": "State the overall concentration direction of diffusion.",
+      "answer": "From higher concentration towards lower concentration.",
+      "explanation": "Individual particles move in many directions; this is the net effect."
+    },
+    {
+      "id": 15,
+      "unit": 0,
+      "prompt": "Why is water difficult to compress?",
+      "answer": "Its particles are already close together with little empty space between them.",
+      "explanation": "The particles are not arranged far apart as in a gas."
+    },
+    {
+      "id": 16,
+      "unit": 0,
+      "prompt": "Does a solid's particle motion stop at room temperature?",
+      "answer": "No. Its particles continue to vibrate.",
+      "explanation": "A fixed shape does not mean motionless particles."
+    },
+    {
+      "id": 17,
+      "unit": 0,
+      "prompt": "Predict what happens to diffusion when temperature increases, all else equal.",
+      "answer": "It generally becomes faster.",
+      "explanation": "Particles have greater average kinetic energy."
+    },
+    {
+      "id": 18,
+      "unit": 0,
+      "prompt": "Why can a smell spread across a room without a fan?",
+      "answer": "Vapour particles spread by diffusion; air currents can also help.",
+      "explanation": "Do not deliberately smell unknown laboratory substances."
+    },
+    {
+      "id": 19,
+      "unit": 0,
+      "prompt": "Name one particle-model limitation.",
+      "answer": "Diagrams are not to scale and do not show every particle or every interaction.",
+      "explanation": "A model explains selected features rather than being a literal photograph."
+    },
+    {
+      "id": 20,
+      "unit": 0,
+      "prompt": "Explain why pouring water changes its shape but not its identity.",
+      "answer": "Particles rearrange and flow; the substance remains water.",
+      "explanation": "A shape change alone does not create a new substance."
+    },
+    {
+      "id": 21,
+      "unit": 1,
+      "prompt": "What is the change from solid to liquid called?",
+      "answer": "Melting",
+      "explanation": "Melting occurs when a solid becomes a liquid.",
+      "options": [
+        "Freezing",
+        "Condensation",
+        "Boiling",
+        "Melting"
+      ]
+    },
+    {
+      "id": 22,
+      "unit": 1,
+      "prompt": "What is the change from gas to liquid called?",
+      "answer": "Condensation",
+      "explanation": "Gas particles come closer together as liquid forms.",
+      "options": [
+        "Freezing",
+        "Evaporation",
+        "Condensation",
+        "Melting"
+      ]
+    },
+    {
+      "id": 23,
+      "unit": 1,
+      "prompt": "Where does evaporation occur?",
+      "answer": "At the surface of a liquid",
+      "explanation": "Evaporation can occur below the boiling point.",
+      "options": [
+        "Only at 100 degrees Celsius",
+        "At the surface of a liquid",
+        "Only at the bottom",
+        "Only inside a solid"
+      ]
+    },
+    {
+      "id": 24,
+      "unit": 1,
+      "prompt": "What does a flat melting section on an ideal heating curve show?",
+      "answer": "A state change at constant temperature",
+      "explanation": "Energy changes the arrangement of particles during melting.",
+      "options": [
+        "A state change at constant temperature",
+        "No energy entering",
+        "Particles disappearing",
+        "A chemical reaction in all cases"
+      ]
+    },
+    {
+      "id": 25,
+      "unit": 1,
+      "prompt": "At standard atmospheric pressure, pure water boils at approximately what temperature?",
+      "answer": "100 degrees Celsius",
+      "explanation": "The boiling point depends on external pressure.",
+      "options": [
+        "0 degrees Celsius",
+        "25 degrees Celsius",
+        "Always 80 degrees Celsius",
+        "100 degrees Celsius"
+      ]
+    },
+    {
+      "id": 26,
+      "unit": 1,
+      "prompt": "Which statement distinguishes boiling from evaporation?",
+      "answer": "Boiling occurs throughout the liquid",
+      "explanation": "Boiling involves vapour bubbles forming and growing within the liquid.",
+      "options": [
+        "Boiling happens only at the surface",
+        "Evaporation is always chemical",
+        "Boiling occurs throughout the liquid",
+        "Evaporation requires bubbles throughout"
+      ]
+    },
+    {
+      "id": 27,
+      "unit": 1,
+      "prompt": "Which state change releases energy to the surroundings?",
+      "answer": "Freezing",
+      "explanation": "The substance releases energy as liquid changes to solid.",
+      "options": [
+        "Boiling",
+        "Freezing",
+        "Melting",
+        "Evaporation"
+      ]
+    },
+    {
+      "id": 28,
+      "unit": 1,
+      "prompt": "Why can water boil below 100 degrees Celsius on a high mountain?",
+      "answer": "Atmospheric pressure is lower",
+      "explanation": "Lower external pressure lowers water's boiling point.",
+      "options": [
+        "Atmospheric pressure is lower",
+        "Water stops being water",
+        "The particles are larger",
+        "Gravity supplies heat"
+      ]
+    },
+    {
+      "id": 29,
+      "unit": 1,
+      "prompt": "Name the change from liquid to solid.",
+      "answer": "Freezing or solidification.",
+      "explanation": "Particles become arranged in a solid structure."
+    },
+    {
+      "id": 30,
+      "unit": 1,
+      "prompt": "Name the change from liquid to gas below boiling point.",
+      "answer": "Evaporation.",
+      "explanation": "It happens at the liquid surface."
+    },
+    {
+      "id": 31,
+      "unit": 1,
+      "prompt": "Why is melting ice a physical change?",
+      "answer": "The substance is still water; no new substance is formed.",
+      "explanation": "Chemical identity, not appearance alone, is the key."
+    },
+    {
+      "id": 32,
+      "unit": 1,
+      "prompt": "What two states coexist during melting?",
+      "answer": "Solid and liquid.",
+      "explanation": "Both are present until the solid has melted."
+    },
+    {
+      "id": 33,
+      "unit": 1,
+      "prompt": "What two states coexist during boiling?",
+      "answer": "Liquid and gas.",
+      "explanation": "Energy continues to transfer while vapour forms."
+    },
+    {
+      "id": 34,
+      "unit": 1,
+      "prompt": "What does a rising section of a heating curve indicate?",
+      "answer": "Temperature is rising within a single state.",
+      "explanation": "Average particle kinetic energy increases."
+    },
+    {
+      "id": 35,
+      "unit": 1,
+      "prompt": "Why does temperature stay steady during ideal melting?",
+      "answer": "Supplied energy changes particle arrangement rather than raising average kinetic energy.",
+      "explanation": "Energy is still being transferred."
+    },
+    {
+      "id": 36,
+      "unit": 1,
+      "prompt": "What should label the vertical axis of a heating curve?",
+      "answer": "Temperature, with its unit such as degrees Celsius.",
+      "explanation": "Axes need both quantity and unit where appropriate."
+    },
+    {
+      "id": 37,
+      "unit": 1,
+      "prompt": "Name a suitable horizontal-axis quantity for a heating curve.",
+      "answer": "Energy supplied; time can be used if the heating rate is controlled.",
+      "explanation": "The demo's horizontal axis is energy supplied."
+    },
+    {
+      "id": 38,
+      "unit": 1,
+      "prompt": "Explain water droplets on the outside of a cold cup.",
+      "answer": "Water vapour in nearby air cools and condenses on the cup.",
+      "explanation": "Water has not passed through the cup wall."
+    },
+    {
+      "id": 39,
+      "unit": 1,
+      "prompt": "Does evaporation require the whole liquid to reach boiling point?",
+      "answer": "No.",
+      "explanation": "Surface particles can escape at lower temperatures."
+    },
+    {
+      "id": 40,
+      "unit": 1,
+      "prompt": "Why must pressure be stated when comparing boiling points?",
+      "answer": "A substance's boiling point changes with external pressure.",
+      "explanation": "Comparisons should be made under the same pressure conditions."
+    },
+    {
+      "id": 41,
+      "unit": 2,
+      "prompt": "What does a non-volatile dissolved solute generally do to water's boiling point?",
+      "answer": "Raises it at the same pressure",
+      "explanation": "The statement applies to suitable dissolved non-volatile solutes.",
+      "options": [
+        "Always lowers it",
+        "Has no possible effect",
+        "Makes it exactly zero",
+        "Raises it at the same pressure"
+      ]
+    },
+    {
+      "id": 42,
+      "unit": 2,
+      "prompt": "Salt dissolved in water generally does what to its freezing point?",
+      "answer": "Lowers it",
+      "explanation": "This is freezing-point depression.",
+      "options": [
+        "Makes water flammable",
+        "Changes water into salt",
+        "Lowers it",
+        "Always raises it"
+      ]
+    },
+    {
+      "id": 43,
+      "unit": 2,
+      "prompt": "An impure solid often melts in what way?",
+      "answer": "Over a range of temperatures",
+      "explanation": "It commonly melts over a broader, lower range than the pure solid.",
+      "options": [
+        "Without any energy transfer",
+        "Over a range of temperatures",
+        "At every temperature equally",
+        "Only at 100 degrees Celsius"
+      ]
+    },
+    {
+      "id": 44,
+      "unit": 2,
+      "prompt": "Which condition must match in a fair boiling-point comparison?",
+      "answer": "External pressure",
+      "explanation": "Pressure itself affects boiling point.",
+      "options": [
+        "External pressure",
+        "Label colour",
+        "Student's name",
+        "Day of the week only"
+      ]
+    },
+    {
+      "id": 45,
+      "unit": 2,
+      "prompt": "Which is a suitable safety rule?",
+      "answer": "Use teacher-supervised heating",
+      "explanation": "Hot equipment and liquids can cause serious burns.",
+      "options": [
+        "Heat a sealed bottle",
+        "Taste the sample",
+        "Hold hot glass with bare hands",
+        "Use teacher-supervised heating"
+      ]
+    },
+    {
+      "id": 46,
+      "unit": 2,
+      "prompt": "A pure substance is best described as what?",
+      "answer": "A single chemical substance",
+      "explanation": "Appearance alone cannot establish purity.",
+      "options": [
+        "Any drinking water",
+        "Any white powder",
+        "A single chemical substance",
+        "Anything that looks clear"
+      ]
+    },
+    {
+      "id": 47,
+      "unit": 2,
+      "prompt": "Why should measurements be repeated?",
+      "answer": "To check consistency and reduce the influence of random variation",
+      "explanation": "Repeated trials help assess reliability.",
+      "options": [
+        "To avoid recording data",
+        "To check consistency and reduce the influence of random variation",
+        "To guarantee a preferred answer",
+        "To change the substance's identity"
+      ]
+    },
+    {
+      "id": 48,
+      "unit": 2,
+      "prompt": "Which impurity condition supports the usual boiling-point elevation claim?",
+      "answer": "The solute is dissolved and non-volatile",
+      "explanation": "The conditions matter; avoid an unlimited generalisation.",
+      "options": [
+        "The solute is dissolved and non-volatile",
+        "Any solid lying nearby",
+        "Any gas above the container",
+        "All impurities without exception"
+      ]
+    },
+    {
+      "id": 49,
+      "unit": 2,
+      "prompt": "Define a mixture.",
+      "answer": "A material containing two or more substances physically combined.",
+      "explanation": "Its components have not necessarily reacted to form a new substance."
+    },
+    {
+      "id": 50,
+      "unit": 2,
+      "prompt": "Why is clear water not necessarily pure?",
+      "answer": "It can contain dissolved substances that are not visible.",
+      "explanation": "Transparency does not prove chemical purity."
+    },
+    {
+      "id": 51,
+      "unit": 2,
+      "prompt": "Give one non-volatile solute commonly used in classroom examples.",
+      "answer": "Table salt dissolved in water.",
+      "explanation": "Use a supervised demonstration or supplied data rather than tasting."
+    },
+    {
+      "id": 52,
+      "unit": 2,
+      "prompt": "Correct: 'Every impurity lowers the boiling point.'",
+      "answer": "A dissolved non-volatile solute generally raises the solvent's boiling point at the same pressure.",
+      "explanation": "Different mixtures can behave differently."
+    },
+    {
+      "id": 53,
+      "unit": 2,
+      "prompt": "Give a reason not to compare boiling water in two places at different altitudes.",
+      "answer": "Different atmospheric pressures may change boiling temperatures.",
+      "explanation": "Pressure would be a confounding variable."
+    },
+    {
+      "id": 54,
+      "unit": 2,
+      "prompt": "Why should a thermometer be read consistently?",
+      "answer": "Different reading methods can introduce measurement errors.",
+      "explanation": "Follow the instrument's instructions and use the same method."
+    },
+    {
+      "id": 55,
+      "unit": 2,
+      "prompt": "Why should you never taste laboratory water samples?",
+      "answer": "They may contain harmful or unknown substances.",
+      "explanation": "Labels and clarity do not guarantee safety."
+    },
+    {
+      "id": 56,
+      "unit": 2,
+      "prompt": "Why must a heated container not be sealed?",
+      "answer": "Gas or vapour pressure can build up and rupture the container.",
+      "explanation": "Use only teacher-approved apparatus and methods."
+    },
+    {
+      "id": 57,
+      "unit": 2,
+      "prompt": "Which is generally lower: the freezing point of pure water or salt water at the same pressure?",
+      "answer": "Salt water's freezing point.",
+      "explanation": "Suitable dissolved salt causes freezing-point depression."
+    },
+    {
+      "id": 58,
+      "unit": 2,
+      "prompt": "Why is 'all impurities behave identically' a weak claim?",
+      "answer": "The effect depends on the substances, concentration and conditions.",
+      "explanation": "Scientific statements need appropriate limits."
+    },
+    {
+      "id": 59,
+      "unit": 2,
+      "prompt": "What should a learner do if measured data disagree with a prediction?",
+      "answer": "Record the data honestly, check the method and repeat where appropriate.",
+      "explanation": "Do not alter results to match the prediction."
+    },
+    {
+      "id": 60,
+      "unit": 2,
+      "prompt": "How can learners study boiling-point effects without heating anything?",
+      "answer": "Interpret teacher-supplied data or use a suitable simulation.",
+      "explanation": "Data-based activities avoid hot-liquid hazards."
+    },
+    {
+      "id": 61,
+      "unit": 3,
+      "prompt": "What is the defining feature of a chemical change?",
+      "answer": "New substances form",
+      "explanation": "Chemical identity changes when new substances form.",
+      "options": [
+        "It is always fast",
+        "It is always reversible",
+        "Its shape changes",
+        "New substances form"
+      ]
+    },
+    {
+      "id": 62,
+      "unit": 3,
+      "prompt": "Cutting paper is usually classified as what?",
+      "answer": "A physical change",
+      "explanation": "Changing size does not by itself create a new substance.",
+      "options": [
+        "Condensation",
+        "Combustion",
+        "A physical change",
+        "A chemical change"
+      ]
+    },
+    {
+      "id": 63,
+      "unit": 3,
+      "prompt": "Rusting iron is what type of change?",
+      "answer": "Chemical",
+      "explanation": "Rust contains substances different from the original iron.",
+      "options": [
+        "Freezing",
+        "Chemical",
+        "Physical only",
+        "Melting"
+      ]
+    },
+    {
+      "id": 64,
+      "unit": 3,
+      "prompt": "Bubbles in boiling water prove what?",
+      "answer": "Water vapour is forming, not necessarily a reaction",
+      "explanation": "Boiling is a physical state change.",
+      "options": [
+        "Water vapour is forming, not necessarily a reaction",
+        "A new element has formed",
+        "Water is burning",
+        "All bubbles mean chemical change"
+      ]
+    },
+    {
+      "id": 65,
+      "unit": 3,
+      "prompt": "Which is a chemical change?",
+      "answer": "Cooking an egg",
+      "explanation": "Cooking changes substances in the egg.",
+      "options": [
+        "Breaking glass",
+        "Melting wax without burning",
+        "Crushing chalk",
+        "Cooking an egg"
+      ]
+    },
+    {
+      "id": 66,
+      "unit": 3,
+      "prompt": "Which is the best classification test?",
+      "answer": "Ask whether new substances formed",
+      "explanation": "Reversibility alone is not reliable.",
+      "options": [
+        "Ask only whether it is loud",
+        "Ask whether a tool was used",
+        "Ask whether new substances formed",
+        "Ask only whether it can be reversed"
+      ]
+    },
+    {
+      "id": 67,
+      "unit": 3,
+      "prompt": "Dissolving sugar in water is usually what?",
+      "answer": "Physical",
+      "explanation": "Sugar remains sugar and can be recovered by appropriate separation.",
+      "options": [
+        "Combustion",
+        "Physical",
+        "Chemical in every case",
+        "Nuclear"
+      ]
+    },
+    {
+      "id": 68,
+      "unit": 3,
+      "prompt": "Which observation alone is insufficient to prove a chemical change?",
+      "answer": "Colour change",
+      "explanation": "Mixing coloured materials can change appearance without a reaction.",
+      "options": [
+        "Colour change",
+        "Confirmed new substance formation",
+        "Confirmed change in chemical composition",
+        "Identification of reaction products"
+      ]
+    },
+    {
+      "id": 69,
+      "unit": 3,
+      "prompt": "Define a physical change.",
+      "answer": "A change that does not create a new chemical substance.",
+      "explanation": "State, shape, size or distribution can change."
+    },
+    {
+      "id": 70,
+      "unit": 3,
+      "prompt": "Give a chemical-change example involving iron.",
+      "answer": "Rusting.",
+      "explanation": "Iron reacts in the presence of oxygen and water."
+    },
+    {
+      "id": 71,
+      "unit": 3,
+      "prompt": "Why is crushing chalk physical?",
+      "answer": "The pieces become smaller, but the substance remains chalk.",
+      "explanation": "Size is not chemical identity."
+    },
+    {
+      "id": 72,
+      "unit": 3,
+      "prompt": "Why is burning wood chemical?",
+      "answer": "New substances such as gases and ash form.",
+      "explanation": "Combustion is not just a state change."
+    },
+    {
+      "id": 73,
+      "unit": 3,
+      "prompt": "Why is reversibility alone an unreliable test?",
+      "answer": "Some physical changes are hard to reverse, and some chemical reactions can be reversed.",
+      "explanation": "The formation of new substances is the defining distinction."
+    },
+    {
+      "id": 74,
+      "unit": 3,
+      "prompt": "Give a physical change that is difficult to reverse.",
+      "answer": "Cutting paper or breaking glass.",
+      "explanation": "The substance can remain chemically the same."
+    },
+    {
+      "id": 75,
+      "unit": 3,
+      "prompt": "Name two possible signs of a chemical reaction.",
+      "answer": "For example, gas production and formation of a precipitate.",
+      "explanation": "These clues require context and do not individually prove every reaction."
+    },
+    {
+      "id": 76,
+      "unit": 3,
+      "prompt": "Explain why melting wax and burning wax are different.",
+      "answer": "Melting is a physical state change; burning forms new substances.",
+      "explanation": "A burning candle can show both kinds of change."
+    },
+    {
+      "id": 77,
+      "unit": 3,
+      "prompt": "Is a temperature change always evidence of a chemical reaction?",
+      "answer": "No. Physical processes can also transfer energy and change temperature.",
+      "explanation": "Consider the substances before and after."
+    },
+    {
+      "id": 78,
+      "unit": 3,
+      "prompt": "Why must you not smell an unknown reaction mixture directly?",
+      "answer": "It may release harmful vapours.",
+      "explanation": "Follow teacher-approved safety procedures."
+    },
+    {
+      "id": 79,
+      "unit": 3,
+      "prompt": "What evidence strengthens a claim of chemical change?",
+      "answer": "Reliable identification of products that were not present initially.",
+      "explanation": "Multiple observations and chemical knowledge support classification."
+    },
+    {
+      "id": 80,
+      "unit": 3,
+      "prompt": "Does a change in shape necessarily mean a chemical change?",
+      "answer": "No.",
+      "explanation": "Bending a metal wire changes shape without necessarily forming new substances."
+    },
+    {
+      "id": 81,
+      "unit": 4,
+      "prompt": "Which process dries wet clothes?",
+      "answer": "Evaporation",
+      "explanation": "Liquid water escapes as water vapour.",
+      "options": [
+        "Freezing",
+        "Rusting",
+        "Condensation",
+        "Evaporation"
+      ]
+    },
+    {
+      "id": 82,
+      "unit": 4,
+      "prompt": "How does evaporating sweat help the body?",
+      "answer": "It transfers energy away from the skin",
+      "explanation": "Evaporation needs energy.",
+      "options": [
+        "It stops all heat transfer",
+        "It turns salt into water",
+        "It transfers energy away from the skin",
+        "It creates new skin"
+      ]
+    },
+    {
+      "id": 83,
+      "unit": 4,
+      "prompt": "What does freezing food do?",
+      "answer": "Slows many spoilage processes without sterilising it",
+      "explanation": "Safe handling is still necessary.",
+      "options": [
+        "Removes every impurity",
+        "Slows many spoilage processes without sterilising it",
+        "Kills every microorganism",
+        "Makes all food safe forever"
+      ]
+    },
+    {
+      "id": 84,
+      "unit": 4,
+      "prompt": "Which sequence is used in metal casting?",
+      "answer": "Melting then solidification",
+      "explanation": "Molten metal is shaped and allowed to solidify.",
+      "options": [
+        "Melting then solidification",
+        "Rusting then evaporation",
+        "Condensation then burning",
+        "Diffusion then digestion"
+      ]
+    },
+    {
+      "id": 85,
+      "unit": 4,
+      "prompt": "Which activity is suitable for the unsupervised observation in this lesson?",
+      "answer": "Watching ice melt at room temperature",
+      "explanation": "The ice observation avoids flames and hot liquids.",
+      "options": [
+        "Boiling salt water",
+        "Burning plastic",
+        "Heating a sealed bottle",
+        "Watching ice melt at room temperature"
+      ]
+    },
+    {
+      "id": 86,
+      "unit": 4,
+      "prompt": "What usually helps a wet cloth dry faster, all else equal?",
+      "answer": "A larger exposed surface area",
+      "explanation": "More water is exposed to air.",
+      "options": [
+        "Sealing it in a wet bag",
+        "Reducing airflow",
+        "A larger exposed surface area",
+        "Folding it into a tight ball"
+      ]
+    },
+    {
+      "id": 87,
+      "unit": 4,
+      "prompt": "What makes an experiment a fair comparison?",
+      "answer": "Changing one tested factor while controlling others",
+      "explanation": "Controlled conditions help interpret differences.",
+      "options": [
+        "Never recording a method",
+        "Changing one tested factor while controlling others",
+        "Changing everything",
+        "Choosing only preferred readings"
+      ]
+    },
+    {
+      "id": 88,
+      "unit": 4,
+      "prompt": "Which is a chemical change used in everyday food preparation?",
+      "answer": "Baking a cake",
+      "explanation": "Baking involves reactions that form new substances.",
+      "options": [
+        "Baking a cake",
+        "Melting ice",
+        "Freezing water",
+        "Cutting a cucumber only"
+      ]
+    },
+    {
+      "id": 89,
+      "unit": 4,
+      "prompt": "Why can a breeze help clothes dry?",
+      "answer": "It removes humid air near the fabric and helps continued evaporation.",
+      "explanation": "Airflow is one factor; humidity and temperature also matter."
+    },
+    {
+      "id": 90,
+      "unit": 4,
+      "prompt": "Why can spreading a wet cloth help it dry?",
+      "answer": "A larger wet surface is exposed to air.",
+      "explanation": "Compare similar cloths and initial amounts of water."
+    },
+    {
+      "id": 91,
+      "unit": 4,
+      "prompt": "Why is a freezer not a steriliser?",
+      "answer": "Some microorganisms can survive freezing and become active after thawing.",
+      "explanation": "Observe safe food-handling guidance."
+    },
+    {
+      "id": 92,
+      "unit": 4,
+      "prompt": "Identify a useful application of solidification.",
+      "answer": "Making an ice cube or allowing cast metal to set.",
+      "explanation": "The substance changes from liquid to solid."
+    },
+    {
+      "id": 93,
+      "unit": 4,
+      "prompt": "What should be recorded during the ice-cube observation?",
+      "answer": "Time, appearance and evidence of liquid water forming.",
+      "explanation": "Use regular intervals and avoid inventing measurements."
+    },
+    {
+      "id": 94,
+      "unit": 4,
+      "prompt": "What remains chemically the same when the ice melts?",
+      "answer": "The substance remains water.",
+      "explanation": "Its state and particle arrangement change."
+    },
+    {
+      "id": 95,
+      "unit": 4,
+      "prompt": "Suggest one variable to test in a cloth-drying investigation.",
+      "answer": "For example, exposed surface area.",
+      "explanation": "Choose one variable rather than changing several at once."
+    },
+    {
+      "id": 96,
+      "unit": 4,
+      "prompt": "Name two conditions to keep similar when comparing drying surface area.",
+      "answer": "For example, cloth material and starting amount of water; also keep temperature and airflow similar.",
+      "explanation": "Different conditions could explain different drying times."
+    },
+    {
+      "id": 97,
+      "unit": 4,
+      "prompt": "How could you share a learning without sharing private data?",
+      "answer": "Share a topic summary or lesson file without student names or personal scores.",
+      "explanation": "Learning content can be shared separately from personal information."
+    },
+    {
+      "id": 98,
+      "unit": 4,
+      "prompt": "What is the purpose of comparing observations with a partner?",
+      "answer": "To explain reasoning, notice differences and improve evidence-based conclusions.",
+      "explanation": "Respectful discussion is more useful than just copying answers."
+    },
+    {
+      "id": 99,
+      "unit": 4,
+      "prompt": "Give an example of physical and chemical changes in the same activity.",
+      "answer": "A candle's wax melts physically while wax vapour burns chemically.",
+      "explanation": "Discuss the example without lighting a flame."
+    },
+    {
+      "id": 100,
+      "unit": 4,
+      "prompt": "Write a useful exit-ticket question for this topic.",
+      "answer": "For example: why is melting ice physical but rusting iron chemical?",
+      "explanation": "A good question asks for reasoning about new substances."
+    }
+  ],
+  "flashcards": [
+    [
+      "Solid",
+      "Particles are close together and vibrate around fixed positions."
+    ],
+    [
+      "Liquid",
+      "Particles are close together but can move past one another."
+    ],
+    [
+      "Gas",
+      "Particles are far apart and move randomly through the container."
+    ],
+    [
+      "Diffusion",
+      "Net spreading from higher to lower concentration due to random motion."
+    ],
+    [
+      "Melting / freezing",
+      "Solid to liquid / liquid to solid."
+    ],
+    [
+      "Evaporation / condensation",
+      "Liquid to gas at the surface / gas to liquid."
+    ],
+    [
+      "Heating-curve plateau",
+      "A pure substance changes state at steady temperature under fixed pressure."
+    ],
+    [
+      "Physical change",
+      "No new chemical substance forms. Reversibility alone is not the test."
+    ],
+    [
+      "Chemical change",
+      "One or more new substances form."
+    ],
+    [
+      "Impurity caveat",
+      "Dissolved non-volatile solutes generally raise boiling point at the same pressure."
+    ]
+  ]
+}

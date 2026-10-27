@@ -1,0 +1,1043 @@
+{
+  "units": [
+    {
+      "title": "Diffusion: spread the idea",
+      "goal": "Explain net diffusion using random particle motion.",
+      "text": [
+        "Diffusion is the net spreading of particles from a region of higher concentration to a region of lower concentration because of random motion. Individual particles can move in different directions; the overall pattern is the net movement.",
+        "A drop of suitable dye can spread through still water without stirring. Mixing caused by stirring or currents can speed distribution, but diffusion does not require either. Gases can also diffuse.",
+        "At equilibrium, there is no overall concentration-driven net movement, but particles do not stop moving. The animation shows a simplified, time-compressed distribution rather than tracking real collisions.",
+        "For otherwise similar conditions, higher temperature often speeds diffusion because particles move more rapidly on average. A greater concentration difference can increase the net rate. Use supplied data or a teacher-approved method rather than unknown dyes or vapours."
+      ],
+      "challenge": "Explain why 'particles stop moving when evenly spread' is wrong."
+    },
+    {
+      "title": "A selective boundary",
+      "goal": "Explain that membranes allow some substances through more readily than others.",
+      "text": [
+        "The cell membrane regulates movement into and out of a cell. It is selectively permeable: some substances can cross more readily than others, depending on their properties and the membrane.",
+        "A model with small blue water particles and larger amber solute markers can show a boundary that allows water but not that solute. The real reason for membrane selectivity is more complex than a literal kitchen sieve.",
+        "A partially permeable membrane is important in the introductory osmosis model. It separates solutions while allowing water to move. The selected solute stays on its side in that model.",
+        "Do not assume every substance enters by simple diffusion. Real cells also use other transport mechanisms. Teacher-approved tubing demonstrations are models, not exact copies of a living membrane."
+      ],
+      "challenge": "Explain why the virtual water can cross while the selected solute markers remain on their side."
+    },
+    {
+      "title": "Osmosis: water on the move",
+      "goal": "Predict net water movement in a simple two-solution model.",
+      "text": [
+        "Osmosis is the net movement of water across a partially permeable membrane. In the introductory model, water moves overall from the more dilute solution towards the more concentrated solution when the selected solute cannot cross and other relevant conditions are comparable.",
+        "More dilute means a lower concentration of the selected solute, not a smaller volume. Water can move in both directions; the greater net transfer is towards the side with lower water potential under the stated conditions.",
+        "The animation conserves the total number of model water particles while redistributing them. Amber solute markers do not cross. It exaggerates visible movement and does not calculate real pressures or timings.",
+        "When the relevant conditions balance, net water transfer can be zero while water molecules continue moving. Pressure differences can affect real osmosis, so 'water always moves towards more solute in every possible situation' is too broad."
+      ],
+      "challenge": "Predict the net direction when two solutions are separated by a water-permeable, solute-impermeable membrane."
+    },
+    {
+      "title": "Cells gain or lose water",
+      "goal": "Connect water movement with simple plant-cell changes.",
+      "text": [
+        "A plant cell placed in a suitable more dilute surrounding solution can gain water by osmosis. Its vacuole can enlarge, and pressure against the supporting wall helps make the cell turgid.",
+        "In a suitable more concentrated surrounding solution, a plant cell can lose water. Its contents can shrink away from the wall in a sufficiently strong case, a process called plasmolysis.",
+        "The cell wall and membrane are different: the rigid wall helps support the cell, while the membrane remains the selective boundary. The virtual cell's size changes are exaggerated for visibility.",
+        "These predictions assume the relevant solute is not freely crossing and conditions suit the simple model. They are not instructions to treat people, animals or plants with arbitrary salt solutions."
+      ],
+      "challenge": "Use the surrounding-solution selector and explain what changes in the model cell and what remains a wall."
+    },
+    {
+      "title": "Transport keeps life going",
+      "goal": "Relate diffusion and osmosis to gas exchange and water uptake.",
+      "text": [
+        "In the lungs, oxygen can diffuse from air spaces into blood where its concentration is lower, while carbon dioxide can diffuse in the opposite overall direction under normal conditions.",
+        "A thin exchange surface and a large surface area can support faster exchange. Breathing and blood flow help maintain differences, but bulk ventilation and diffusion are not the same process.",
+        "Water can enter root cells by osmosis under suitable conditions. Mineral uptake is not itself osmosis: osmosis refers to water, and cells can use other mechanisms for solutes.",
+        "Absorption in the intestine includes several mechanisms. Some substances can diffuse, but not every nutrient enters only by simple diffusion. Use the model to explain selected processes rather than all of biology."
+      ],
+      "challenge": "Explain why 'all nutrients enter by osmosis' confuses the moving substance with other transport processes."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "unit": 0,
+      "prompt": "What causes diffusion?",
+      "answer": "Random particle motion",
+      "explanation": "Net spreading emerges from random movement.",
+      "options": [
+        "A need to stir every time",
+        "Particles choosing a destination",
+        "Creation of new matter",
+        "Random particle motion"
+      ]
+    },
+    {
+      "id": 2,
+      "unit": 0,
+      "prompt": "Net diffusion tends to go from where to where?",
+      "answer": "Higher to lower concentration",
+      "explanation": "This describes the overall concentration-driven trend.",
+      "options": [
+        "Only downwards",
+        "Only towards light",
+        "Higher to lower concentration",
+        "Lower to higher in every case"
+      ]
+    },
+    {
+      "id": 3,
+      "unit": 0,
+      "prompt": "Does diffusion require stirring?",
+      "answer": "No",
+      "explanation": "Particles move randomly without stirring.",
+      "options": [
+        "Only for gases",
+        "No",
+        "Always",
+        "Only in a labelled cup"
+      ]
+    },
+    {
+      "id": 4,
+      "unit": 0,
+      "prompt": "At equilibrium, particles do what?",
+      "answer": "Keep moving with no overall net concentration-driven transfer",
+      "explanation": "No net movement does not mean no motion.",
+      "options": [
+        "Keep moving with no overall net concentration-driven transfer",
+        "Stop completely",
+        "Disappear",
+        "Become larger"
+      ]
+    },
+    {
+      "id": 5,
+      "unit": 0,
+      "prompt": "Which can undergo diffusion?",
+      "answer": "Particles in liquids and gases",
+      "explanation": "Diffusion is not restricted to cells.",
+      "options": [
+        "Only solid walls",
+        "Only hot objects",
+        "Only living cells",
+        "Particles in liquids and gases"
+      ]
+    },
+    {
+      "id": 6,
+      "unit": 0,
+      "prompt": "Higher temperature often affects diffusion how, with other factors similar?",
+      "answer": "It speeds it up",
+      "explanation": "Average particle motion increases.",
+      "options": [
+        "It removes particles",
+        "It turns all water into salt",
+        "It speeds it up",
+        "It always stops it"
+      ]
+    },
+    {
+      "id": 7,
+      "unit": 0,
+      "prompt": "What does net movement mean?",
+      "answer": "The overall movement after opposite movements are considered",
+      "explanation": "Individual motion and overall transfer differ.",
+      "options": [
+        "Only visible large-object movement",
+        "The overall movement after opposite movements are considered",
+        "Every particle moving the same way",
+        "No movement at all"
+      ]
+    },
+    {
+      "id": 8,
+      "unit": 0,
+      "prompt": "Which is a safe approach to an unknown vapour?",
+      "answer": "Do not smell it; tell the teacher",
+      "explanation": "Diffusion examples do not justify exposure.",
+      "options": [
+        "Do not smell it; tell the teacher",
+        "Sniff it closely",
+        "Taste nearby liquid",
+        "Heat it at home"
+      ]
+    },
+    {
+      "id": 9,
+      "unit": 0,
+      "prompt": "Define diffusion.",
+      "answer": "Net spreading from higher to lower concentration due to random particle motion.",
+      "explanation": "The definition describes an overall effect."
+    },
+    {
+      "id": 10,
+      "unit": 0,
+      "prompt": "Give a diffusion example in a liquid.",
+      "answer": "A suitable dye spreading through still water.",
+      "explanation": "Use only an approved demonstration or model."
+    },
+    {
+      "id": 11,
+      "unit": 0,
+      "prompt": "Give a diffusion example in a gas.",
+      "answer": "A vapour spreading through air.",
+      "explanation": "Do not deliberately smell unknown substances."
+    },
+    {
+      "id": 12,
+      "unit": 0,
+      "prompt": "Why is stirring not part of the definition?",
+      "answer": "Particles move randomly even without bulk mixing.",
+      "explanation": "Stirring and diffusion are different processes."
+    },
+    {
+      "id": 13,
+      "unit": 0,
+      "prompt": "What happens to particle motion at equilibrium?",
+      "answer": "It continues.",
+      "explanation": "Opposite movements balance on average."
+    },
+    {
+      "id": 14,
+      "unit": 0,
+      "prompt": "Explain higher concentration.",
+      "answer": "More of the relevant particles in a given volume.",
+      "explanation": "Specify which particles are being compared."
+    },
+    {
+      "id": 15,
+      "unit": 0,
+      "prompt": "Why can a stronger concentration difference increase net diffusion?",
+      "answer": "It creates a greater imbalance in particle movements across the region.",
+      "explanation": "Other conditions must be comparable."
+    },
+    {
+      "id": 16,
+      "unit": 0,
+      "prompt": "How does temperature influence average particle motion?",
+      "answer": "Higher temperature generally increases average kinetic energy.",
+      "explanation": "The particles themselves do not become larger."
+    },
+    {
+      "id": 17,
+      "unit": 0,
+      "prompt": "Why is a time-compressed animation not experimental timing data?",
+      "answer": "Its speed is chosen for teaching rather than measured.",
+      "explanation": "It cannot predict a real waiting time."
+    },
+    {
+      "id": 18,
+      "unit": 0,
+      "prompt": "Does every particle travel straight from high to low concentration?",
+      "answer": "No.",
+      "explanation": "Random individual paths produce the net trend."
+    },
+    {
+      "id": 19,
+      "unit": 0,
+      "prompt": "What should be controlled in a temperature comparison?",
+      "answer": "Other factors such as substance, concentration difference and setup.",
+      "explanation": "A fair comparison isolates the tested factor."
+    },
+    {
+      "id": 20,
+      "unit": 0,
+      "prompt": "What is wrong with saying equilibrium means no particles exist?",
+      "answer": "Particles remain and continue moving.",
+      "explanation": "Equilibrium concerns net transfer, not disappearance."
+    },
+    {
+      "id": 21,
+      "unit": 1,
+      "prompt": "What does selectively permeable mean?",
+      "answer": "Some substances cross more readily than others",
+      "explanation": "Membrane properties affect movement.",
+      "options": [
+        "Everything passes equally",
+        "Nothing can ever cross",
+        "The membrane is absent",
+        "Some substances cross more readily than others"
+      ]
+    },
+    {
+      "id": 22,
+      "unit": 1,
+      "prompt": "Which boundary is central to the introductory osmosis model?",
+      "answer": "A partially permeable membrane",
+      "explanation": "Water can cross while the selected solute does not.",
+      "options": [
+        "A metal ruler",
+        "A flame",
+        "A partially permeable membrane",
+        "An open empty space only"
+      ]
+    },
+    {
+      "id": 23,
+      "unit": 1,
+      "prompt": "What do blue particles represent in this model?",
+      "answer": "Water",
+      "explanation": "Always read the diagram key.",
+      "options": [
+        "Microscope lenses",
+        "Water",
+        "All possible solutes",
+        "Atoms of copper"
+      ]
+    },
+    {
+      "id": 24,
+      "unit": 1,
+      "prompt": "What do amber markers represent here?",
+      "answer": "The selected non-crossing solute",
+      "explanation": "The model specifies which substance cannot cross.",
+      "options": [
+        "The selected non-crossing solute",
+        "Every molecule in a real cell",
+        "Air bubbles only",
+        "Water itself"
+      ]
+    },
+    {
+      "id": 25,
+      "unit": 1,
+      "prompt": "Is a real membrane exactly a kitchen sieve?",
+      "answer": "No",
+      "explanation": "The sieve comparison has limits.",
+      "options": [
+        "Always",
+        "Only when magnified",
+        "Only in animals",
+        "No"
+      ]
+    },
+    {
+      "id": 26,
+      "unit": 1,
+      "prompt": "Does every substance enter cells only by simple diffusion?",
+      "answer": "No",
+      "explanation": "Cells have other transport mechanisms too.",
+      "options": [
+        "Only in plants",
+        "Only in animals",
+        "No",
+        "Always"
+      ]
+    },
+    {
+      "id": 27,
+      "unit": 1,
+      "prompt": "Which structure controls cell entry and exit?",
+      "answer": "Cell membrane",
+      "explanation": "It regulates exchanges with the surroundings.",
+      "options": [
+        "A classroom wall",
+        "Cell membrane",
+        "Slide label",
+        "Microscope eyepiece"
+      ]
+    },
+    {
+      "id": 28,
+      "unit": 1,
+      "prompt": "What should guide a real tubing demonstration?",
+      "answer": "A teacher-approved method",
+      "explanation": "Models do not remove practical hazards.",
+      "options": [
+        "A teacher-approved method",
+        "An improvised unknown chemical mixture",
+        "Tasting the contents",
+        "Heating a sealed bag"
+      ]
+    },
+    {
+      "id": 29,
+      "unit": 1,
+      "prompt": "Describe a selectively permeable membrane.",
+      "answer": "A boundary across which some substances pass more readily than others.",
+      "explanation": "It is not simply an unrestricted opening."
+    },
+    {
+      "id": 30,
+      "unit": 1,
+      "prompt": "Why is a colour key important in the membrane model?",
+      "answer": "It identifies water and the selected solute.",
+      "explanation": "Colour does not measure real particle size or appearance."
+    },
+    {
+      "id": 31,
+      "unit": 1,
+      "prompt": "What stays on its side in this osmosis model?",
+      "answer": "The selected solute.",
+      "explanation": "The model assumes it cannot cross the membrane."
+    },
+    {
+      "id": 32,
+      "unit": 1,
+      "prompt": "Which substance can cross in the model?",
+      "answer": "Water.",
+      "explanation": "The relevant boundary is partially permeable."
+    },
+    {
+      "id": 33,
+      "unit": 1,
+      "prompt": "Name one limitation of representing a membrane as holes.",
+      "answer": "Real selectivity depends on more than simple visible hole size.",
+      "explanation": "The diagram is not a literal membrane photograph."
+    },
+    {
+      "id": 34,
+      "unit": 1,
+      "prompt": "Why is a cell wall not a substitute for explaining the membrane?",
+      "answer": "They are different structures; the membrane regulates exchanges.",
+      "explanation": "Plant cells have both."
+    },
+    {
+      "id": 35,
+      "unit": 1,
+      "prompt": "Does selective movement mean particles make decisions?",
+      "answer": "No.",
+      "explanation": "Physical properties and interactions explain movement."
+    },
+    {
+      "id": 36,
+      "unit": 1,
+      "prompt": "Why should a tubing model not be called a complete living cell?",
+      "answer": "It lacks the full structures and processes of a cell.",
+      "explanation": "It demonstrates selected transport ideas."
+    },
+    {
+      "id": 37,
+      "unit": 1,
+      "prompt": "What must be known before predicting which particles cross?",
+      "answer": "The substance and the boundary's permeability.",
+      "explanation": "Do not assume every membrane behaves identically."
+    },
+    {
+      "id": 38,
+      "unit": 1,
+      "prompt": "Why is an arrow only part of the explanation?",
+      "answer": "It shows a direction but not every individual particle path or mechanism.",
+      "explanation": "Interpret it with the key and assumptions."
+    },
+    {
+      "id": 39,
+      "unit": 1,
+      "prompt": "What should a learner do with unknown model liquids?",
+      "answer": "Avoid tasting or handling them and ask the teacher.",
+      "explanation": "Use the virtual model instead."
+    },
+    {
+      "id": 40,
+      "unit": 1,
+      "prompt": "Why mention other cell-transport processes?",
+      "answer": "To avoid falsely claiming all absorption is simple diffusion.",
+      "explanation": "An introductory model has a defined scope."
+    },
+    {
+      "id": 41,
+      "unit": 2,
+      "prompt": "Which substance moves in osmosis?",
+      "answer": "Water",
+      "explanation": "This lesson's definition concerns net water movement.",
+      "options": [
+        "Only the blocked solute",
+        "The membrane itself",
+        "A microscope lens",
+        "Water"
+      ]
+    },
+    {
+      "id": 42,
+      "unit": 2,
+      "prompt": "What boundary is required in this model?",
+      "answer": "A partially permeable membrane",
+      "explanation": "The boundary allows water but not the selected solute.",
+      "options": [
+        "A flame",
+        "A dry metal sheet",
+        "A partially permeable membrane",
+        "No boundary at all"
+      ]
+    },
+    {
+      "id": 43,
+      "unit": 2,
+      "prompt": "Under the stated simple conditions, net water moves towards which solution?",
+      "answer": "The more concentrated solution",
+      "explanation": "Use solute concentration and model assumptions.",
+      "options": [
+        "Always the warmer label",
+        "The more concentrated solution",
+        "Always the smaller volume",
+        "Always the left side"
+      ]
+    },
+    {
+      "id": 44,
+      "unit": 2,
+      "prompt": "More dilute means what?",
+      "answer": "Lower solute concentration",
+      "explanation": "Concentration is not the same as volume.",
+      "options": [
+        "Lower solute concentration",
+        "Always less total liquid",
+        "Higher solute concentration",
+        "No water"
+      ]
+    },
+    {
+      "id": 45,
+      "unit": 2,
+      "prompt": "Can water move both ways across the membrane?",
+      "answer": "Yes",
+      "explanation": "Net movement is the difference between opposite movements.",
+      "options": [
+        "Never",
+        "Only before the page loads",
+        "Only if stirred",
+        "Yes"
+      ]
+    },
+    {
+      "id": 46,
+      "unit": 2,
+      "prompt": "What happens to the selected solute in this animation?",
+      "answer": "It remains on its side",
+      "explanation": "The model assumes the membrane blocks that solute.",
+      "options": [
+        "It crosses freely",
+        "It disappears",
+        "It remains on its side",
+        "It all becomes water"
+      ]
+    },
+    {
+      "id": 47,
+      "unit": 2,
+      "prompt": "Does the model create new water particles?",
+      "answer": "No",
+      "explanation": "It redistributes a conserved model total.",
+      "options": [
+        "Only at equilibrium",
+        "No",
+        "Always",
+        "Only on the right"
+      ]
+    },
+    {
+      "id": 48,
+      "unit": 2,
+      "prompt": "Which claim is too broad?",
+      "answer": "Water always moves towards more solute regardless of all other conditions",
+      "explanation": "Predictions need appropriate assumptions.",
+      "options": [
+        "Water always moves towards more solute regardless of all other conditions",
+        "The membrane matters",
+        "Pressure can affect real osmosis",
+        "Water can move both ways"
+      ]
+    },
+    {
+      "id": 49,
+      "unit": 2,
+      "prompt": "Define osmosis for this lesson.",
+      "answer": "Net water movement across a partially permeable membrane.",
+      "explanation": "Direction depends on water potential under the relevant conditions."
+    },
+    {
+      "id": 50,
+      "unit": 2,
+      "prompt": "State the predicted net direction in the simple dilute-to-concentrated setup.",
+      "answer": "From the more dilute towards the more concentrated solution.",
+      "explanation": "The selected solute cannot cross and other conditions are comparable."
+    },
+    {
+      "id": 51,
+      "unit": 2,
+      "prompt": "Why is 'towards the side with more liquid' not a definition?",
+      "answer": "Volume alone does not determine the concentration difference.",
+      "explanation": "Compare the amount of solute per volume."
+    },
+    {
+      "id": 52,
+      "unit": 2,
+      "prompt": "What does a large amber marker stand for?",
+      "answer": "A model solute particle that cannot cross this membrane.",
+      "explanation": "It is a teaching key, not a literal colour or size."
+    },
+    {
+      "id": 53,
+      "unit": 2,
+      "prompt": "What should happen to the model's total water count?",
+      "answer": "It should stay constant.",
+      "explanation": "Net redistribution is not water creation."
+    },
+    {
+      "id": 54,
+      "unit": 2,
+      "prompt": "What does zero net water transfer mean?",
+      "answer": "Opposite transfers balance overall.",
+      "explanation": "Molecules can still move."
+    },
+    {
+      "id": 55,
+      "unit": 2,
+      "prompt": "Why are arrows drawn in both directions in some osmosis models?",
+      "answer": "Water moves both ways even when one direction has the larger net transfer.",
+      "explanation": "A single net arrow simplifies that movement."
+    },
+    {
+      "id": 56,
+      "unit": 2,
+      "prompt": "Why must the membrane assumptions be stated?",
+      "answer": "Different permeability would change the prediction.",
+      "explanation": "If the solute also crosses, the simple model may not apply."
+    },
+    {
+      "id": 57,
+      "unit": 2,
+      "prompt": "Name another factor that can affect real osmosis.",
+      "answer": "Pressure differences.",
+      "explanation": "The concentration-only picture is not universal."
+    },
+    {
+      "id": 58,
+      "unit": 2,
+      "prompt": "Does adding more dilute solution always mean adding more solute concentration?",
+      "answer": "No.",
+      "explanation": "Dilute refers to lower concentration, not necessarily lower total amount."
+    },
+    {
+      "id": 59,
+      "unit": 2,
+      "prompt": "How could you check the animation's water conservation?",
+      "answer": "Count water markers on both sides before and after.",
+      "explanation": "The total should remain the same."
+    },
+    {
+      "id": 60,
+      "unit": 2,
+      "prompt": "Why is osmosis not a particle's purposeful choice?",
+      "answer": "Movement follows physical interactions and differences in water potential.",
+      "explanation": "Molecules do not decide where to go."
+    },
+    {
+      "id": 61,
+      "unit": 3,
+      "prompt": "A plant cell in a suitable more dilute solution tends to do what?",
+      "answer": "Gain water",
+      "explanation": "Net water can enter by osmosis.",
+      "options": [
+        "Always lose all water",
+        "Lose its cell wall immediately",
+        "Become a chemical element",
+        "Gain water"
+      ]
+    },
+    {
+      "id": 62,
+      "unit": 3,
+      "prompt": "A plant cell in a suitable more concentrated solution tends to do what?",
+      "answer": "Lose water",
+      "explanation": "Net water can leave under the stated assumptions.",
+      "options": [
+        "Become metal",
+        "Stop having particles",
+        "Lose water",
+        "Create water"
+      ]
+    },
+    {
+      "id": 63,
+      "unit": 3,
+      "prompt": "What contributes to a turgid plant cell's support?",
+      "answer": "Water-related pressure against its wall",
+      "explanation": "The wall resists expansion.",
+      "options": [
+        "A lack of membrane",
+        "Water-related pressure against its wall",
+        "A microscope battery",
+        "A flame"
+      ]
+    },
+    {
+      "id": 64,
+      "unit": 3,
+      "prompt": "Which structure stays as the supporting outer wall in the model?",
+      "answer": "Cell wall",
+      "explanation": "The membrane and cell contents can move relative to it.",
+      "options": [
+        "Cell wall",
+        "Cell sap only",
+        "Nucleus only",
+        "Eyepiece"
+      ]
+    },
+    {
+      "id": 65,
+      "unit": 3,
+      "prompt": "What is plasmolysis?",
+      "answer": "Cell contents shrinking away from the wall after water loss",
+      "explanation": "It can occur in a sufficiently concentrated surrounding solution.",
+      "options": [
+        "Water creating a new nucleus",
+        "A type of fire",
+        "Metal rusting",
+        "Cell contents shrinking away from the wall after water loss"
+      ]
+    },
+    {
+      "id": 66,
+      "unit": 3,
+      "prompt": "Are the model's size changes exact biological measurements?",
+      "answer": "No",
+      "explanation": "They are exaggerated illustrations.",
+      "options": [
+        "Only when coloured",
+        "Only on a phone",
+        "No",
+        "Always"
+      ]
+    },
+    {
+      "id": 67,
+      "unit": 3,
+      "prompt": "Which assumption matters for this simple prediction?",
+      "answer": "The relevant solute does not freely cross",
+      "explanation": "Permeability affects the result.",
+      "options": [
+        "Cells contain no water",
+        "The relevant solute does not freely cross",
+        "All solutes behave identically",
+        "Pressure never matters anywhere"
+      ]
+    },
+    {
+      "id": 68,
+      "unit": 3,
+      "prompt": "Is the animation a reason to apply arbitrary salt mixtures to living things?",
+      "answer": "No",
+      "explanation": "Use approved teaching models, not unsafe experiments.",
+      "options": [
+        "No",
+        "Yes, always",
+        "Only if the result looks dramatic",
+        "Only at home"
+      ]
+    },
+    {
+      "id": 69,
+      "unit": 3,
+      "prompt": "Explain turgid in the plant-cell context.",
+      "answer": "A water-filled cell whose contents press against the supporting wall.",
+      "explanation": "Turgor contributes to plant support."
+    },
+    {
+      "id": 70,
+      "unit": 3,
+      "prompt": "Describe a model cell gaining water.",
+      "answer": "Its vacuole and contents expand within the wall.",
+      "explanation": "The illustration is exaggerated."
+    },
+    {
+      "id": 71,
+      "unit": 3,
+      "prompt": "Describe a model cell losing water.",
+      "answer": "Its contents shrink, potentially pulling away from the wall.",
+      "explanation": "A strong enough case can show plasmolysis."
+    },
+    {
+      "id": 72,
+      "unit": 3,
+      "prompt": "Why is the wall not the same as the selective membrane?",
+      "answer": "They are different structures with different roles.",
+      "explanation": "The membrane regulates movement."
+    },
+    {
+      "id": 73,
+      "unit": 3,
+      "prompt": "What does the surrounding-solution selector change?",
+      "answer": "The relative solute concentration outside the model cell.",
+      "explanation": "The model specifies the permeability assumptions."
+    },
+    {
+      "id": 74,
+      "unit": 3,
+      "prompt": "Why should the word tends appear in simple predictions?",
+      "answer": "Actual movement depends on conditions and permeability.",
+      "explanation": "Avoid unlimited claims."
+    },
+    {
+      "id": 75,
+      "unit": 3,
+      "prompt": "What remains after the illustrated contents pull inward?",
+      "answer": "The model cell wall remains in place.",
+      "explanation": "Its presence distinguishes the structures."
+    },
+    {
+      "id": 76,
+      "unit": 3,
+      "prompt": "Why can water balance affect plant firmness?",
+      "answer": "Turgor depends on water-related pressure in cells.",
+      "explanation": "Plants also have other supporting structures."
+    },
+    {
+      "id": 77,
+      "unit": 3,
+      "prompt": "Does a shrunken diagram prove a real sample was observed?",
+      "answer": "No.",
+      "explanation": "It is a generated teaching model."
+    },
+    {
+      "id": 78,
+      "unit": 3,
+      "prompt": "How can learners investigate safely before practical work?",
+      "answer": "Use the virtual selector and discuss predictions with the teacher.",
+      "explanation": "Real specimens need approved methods."
+    },
+    {
+      "id": 79,
+      "unit": 3,
+      "prompt": "What should be compared when predicting water entry?",
+      "answer": "Inside and outside solution conditions across the membrane.",
+      "explanation": "A single colour without a key is insufficient."
+    },
+    {
+      "id": 80,
+      "unit": 3,
+      "prompt": "Why is this not a medical treatment lesson?",
+      "answer": "It explains a cell model, not how to treat a person.",
+      "explanation": "Health decisions need appropriate professional guidance."
+    },
+    {
+      "id": 81,
+      "unit": 4,
+      "prompt": "In normal lung gas exchange, oxygen can diffuse overall from where?",
+      "answer": "Air spaces into blood",
+      "explanation": "The direction follows the relevant concentration difference.",
+      "options": [
+        "Blood into bone only",
+        "A microscope lens into air",
+        "Nowhere",
+        "Air spaces into blood"
+      ]
+    },
+    {
+      "id": 82,
+      "unit": 4,
+      "prompt": "Carbon dioxide in normal lung exchange can diffuse overall towards where?",
+      "answer": "The lung air spaces",
+      "explanation": "It can move from blood towards air before exhalation.",
+      "options": [
+        "A new metal",
+        "The classroom floor",
+        "The lung air spaces",
+        "A solid cell wall only"
+      ]
+    },
+    {
+      "id": 83,
+      "unit": 4,
+      "prompt": "Which process specifically names water movement across a partially permeable membrane?",
+      "answer": "Osmosis",
+      "explanation": "Keep the moving substance clear.",
+      "options": [
+        "Magnification",
+        "Osmosis",
+        "All nutrient absorption",
+        "Burning"
+      ]
+    },
+    {
+      "id": 84,
+      "unit": 4,
+      "prompt": "Does mineral uptake itself mean osmosis?",
+      "answer": "No",
+      "explanation": "Osmosis concerns water, not all solutes.",
+      "options": [
+        "No",
+        "Always",
+        "Only for blue minerals",
+        "Only in animals"
+      ]
+    },
+    {
+      "id": 85,
+      "unit": 4,
+      "prompt": "What can a thinner exchange surface do, all else similar?",
+      "answer": "Shorten the diffusion distance",
+      "explanation": "Distance can affect exchange rate.",
+      "options": [
+        "Create new oxygen",
+        "Remove every membrane",
+        "Stop particle movement",
+        "Shorten the diffusion distance"
+      ]
+    },
+    {
+      "id": 86,
+      "unit": 4,
+      "prompt": "What can a larger exchange area support?",
+      "answer": "More exchange under suitable conditions",
+      "explanation": "Area is one factor, not the only one.",
+      "options": [
+        "No concentration difference",
+        "No need for water",
+        "More exchange under suitable conditions",
+        "Guaranteed infinite exchange"
+      ]
+    },
+    {
+      "id": 87,
+      "unit": 4,
+      "prompt": "Is breathing identical to diffusion?",
+      "answer": "No",
+      "explanation": "Breathing moves bulk air; diffusion is particle-level net movement.",
+      "options": [
+        "Only in plants",
+        "No",
+        "Always",
+        "Only during daytime"
+      ]
+    },
+    {
+      "id": 88,
+      "unit": 4,
+      "prompt": "Which statement about intestinal absorption is careful?",
+      "answer": "It involves more than one transport mechanism",
+      "explanation": "Do not overextend the simple model.",
+      "options": [
+        "It involves more than one transport mechanism",
+        "Every nutrient enters by osmosis",
+        "No cells are involved",
+        "All nutrients are water"
+      ]
+    },
+    {
+      "id": 89,
+      "unit": 4,
+      "prompt": "Give one role of diffusion in the lungs.",
+      "answer": "Oxygen moving from air spaces into blood under normal conditions.",
+      "explanation": "Carbon dioxide exchange is another example."
+    },
+    {
+      "id": 90,
+      "unit": 4,
+      "prompt": "Give one role of osmosis in a plant.",
+      "answer": "Water entering root cells under suitable conditions.",
+      "explanation": "The membrane and water-potential difference matter."
+    },
+    {
+      "id": 91,
+      "unit": 4,
+      "prompt": "Why is mineral uptake not called osmosis?",
+      "answer": "Osmosis refers specifically to water movement.",
+      "explanation": "Solutes may use other mechanisms."
+    },
+    {
+      "id": 92,
+      "unit": 4,
+      "prompt": "Explain a thin exchange surface's advantage.",
+      "answer": "It reduces the distance particles must diffuse.",
+      "explanation": "Other factors still affect rate."
+    },
+    {
+      "id": 93,
+      "unit": 4,
+      "prompt": "Explain a large exchange surface's advantage.",
+      "answer": "It provides more area over which exchange can occur.",
+      "explanation": "This does not make exchange unlimited."
+    },
+    {
+      "id": 94,
+      "unit": 4,
+      "prompt": "How can blood flow help gas exchange?",
+      "answer": "It helps maintain relevant concentration differences.",
+      "explanation": "Bulk flow and diffusion work together but differ."
+    },
+    {
+      "id": 95,
+      "unit": 4,
+      "prompt": "How can ventilation help gas exchange?",
+      "answer": "It refreshes air in the lungs and helps maintain differences.",
+      "explanation": "It is not itself the definition of diffusion."
+    },
+    {
+      "id": 96,
+      "unit": 4,
+      "prompt": "Why should a nutrient-absorption explanation avoid the word all with simple diffusion?",
+      "answer": "Several transport mechanisms can be involved.",
+      "explanation": "The simple model covers selected cases."
+    },
+    {
+      "id": 97,
+      "unit": 4,
+      "prompt": "Name the gas exchanged out of blood towards lung air in the model.",
+      "answer": "Carbon dioxide.",
+      "explanation": "The model assumes normal gas-exchange conditions."
+    },
+    {
+      "id": 98,
+      "unit": 4,
+      "prompt": "What is a concentration gradient?",
+      "answer": "A difference in concentration across space.",
+      "explanation": "It helps describe a direction for net diffusion."
+    },
+    {
+      "id": 99,
+      "unit": 4,
+      "prompt": "Why should labelled arrows name the substance?",
+      "answer": "Different substances can have different net directions.",
+      "explanation": "Oxygen and carbon dioxide need not move the same way."
+    },
+    {
+      "id": 100,
+      "unit": 4,
+      "prompt": "How can a learner explain transport without unsafe experiments?",
+      "answer": "Use diagrams, simulations and teacher-supplied data.",
+      "explanation": "Avoid unknown substances and biological samples."
+    }
+  ],
+  "flashcards": [
+    [
+      "Diffusion",
+      "Net spreading from higher to lower concentration due to random motion."
+    ],
+    [
+      "Equilibrium",
+      "No overall net transfer; particles can still move."
+    ],
+    [
+      "Concentration",
+      "Amount of a specified substance per volume."
+    ],
+    [
+      "Selective membrane",
+      "Some substances cross more readily than others."
+    ],
+    [
+      "Osmosis",
+      "Net water movement across a partially permeable membrane."
+    ],
+    [
+      "Dilute solution",
+      "Lower concentration of the selected solute."
+    ],
+    [
+      "Turgid cell",
+      "Water-filled plant cell pressing against its wall."
+    ],
+    [
+      "Plasmolysis",
+      "Contents pull away from the wall after sufficient water loss."
+    ],
+    [
+      "Gas exchange",
+      "Oxygen and carbon dioxide can diffuse in different net directions."
+    ],
+    [
+      "Model limit",
+      "Not all nutrient or mineral uptake is simple diffusion or osmosis."
+    ]
+  ]
+}

@@ -1,0 +1,1048 @@
+{
+  "units": [
+    {
+      "title": "Energy forms & sources",
+      "goal": "Recognise energy forms and distinguish renewable from non-renewable sources.",
+      "text": [
+        "Energy helps us explain changes and transfers. Moving objects have kinetic energy. A raised object has gravitational potential energy. Energy can also be stored chemically, elastically or in nuclear systems, and transferred electrically, by heating, by light and by sound.",
+        "An energy source is not the same as a form of energy. Sunlight, wind, falling water, geothermal resources and fuels can supply energy. Electricity is an energy-transfer pathway, not automatically a renewable primary source.",
+        "Renewable resources are replenished naturally on a human timescale. Examples include sunlight, wind and suitably managed flowing-water resources. Biomass can be renewable when regrowth keeps pace with use; cutting forests faster than they regrow is not sustainable.",
+        "Coal, petroleum, natural gas and uranium are non-renewable resources: available supplies are finite or form far more slowly than we use them. Nuclear energy does not require burning a fossil fuel, but mined uranium is still non-renewable.",
+        "Renewable does not mean impact-free or always available. Compare reliability, location, land use, pollution, costs and community needs. Our animations classify examples; they do not model an entire power station."
+      ],
+      "challenge": "Choose two local energy sources. Explain how each is replenished, one use and one limitation."
+    },
+    {
+      "title": "Follow the energy",
+      "goal": "Explain simple energy transformations and account for less useful transfers.",
+      "text": [
+        "Energy is conserved: it is not created or destroyed by an ordinary transformation. Track where it comes from and where it goes. Energy described as 'wasted' is usually dispersed into less useful stores, often warming the surroundings.",
+        "In a battery-powered torch, chemical energy supplies an electrical transfer to the lamp. The lamp emits light and also transfers energy by heating. A lamp does not convert every input into useful light.",
+        "For a ball falling from rest, gravitational potential energy decreases and kinetic energy increases. In the ideal animation, air resistance is ignored, so total modelled mechanical energy stays constant until just before impact. A real fall also transfers energy to the air.",
+        "A motor uses an electrical transfer to produce movement; a generator uses movement to supply an electrical transfer. A hydroelectric scheme uses falling water to drive a turbine and generator. A solar photovoltaic panel converts light into an electrical supply.",
+        "Rubbing hands transfers energy through friction and warms them. A microphone converts sound-related vibrations into an electrical signal. Real devices commonly have several outputs; a simple arrow chain is a model, not the complete engineering."
+      ],
+      "challenge": "Draw an energy chain for a device you use. Include one useful output and one less useful transfer."
+    },
+    {
+      "title": "Pressure on solids",
+      "goal": "Explore how force and contact area affect pressure.",
+      "text": [
+        "Pressure describes normal force per unit contact area. Normal means perpendicular to the surface. Increasing downward force over the same contact area raises pressure. Spreading the same force over a larger contact area lowers pressure.",
+        "Weight is a gravitational force, measured in newtons, while mass is measured in kilograms. For an object resting on a horizontal support in a simple balanced situation, its weight helps determine the contact force.",
+        "The virtual model uses pressure = force divided by area. With force in newtons and area in square centimetres, multiply the numerical ratio by ten to express pressure in kilopascals. For example, 40 N on 40 square cm gives 10 kPa.",
+        "Wide straps distribute a load over more area. Broad tyres and foundations can reduce pressure on soft ground. A thin cutting edge concentrates a force over a small area; sharp tools are examples to discuss, not unsupervised activities.",
+        "The model assumes uniform contact and a perpendicular force. Real materials deform, so actual pressure may not be even across a surface. Change one slider at a time to see a fair comparison."
+      ],
+      "challenge": "Keep force fixed, then double the contact area. Predict and explain what happens to pressure."
+    },
+    {
+      "title": "Pressure in liquids",
+      "goal": "Describe qualitatively how pressure in a still liquid changes with depth.",
+      "text": [
+        "In the same still liquid, pressure due to the liquid increases with depth below the surface. Deeper points have more liquid above them. This lesson treats the relationship qualitatively; no liquid-pressure calculation is required.",
+        "At equal depth in the same connected liquid at rest, pressure is equal, even if the container has an unusual shape. Depth means vertical distance below the liquid surface, not distance along the wall.",
+        "Liquid pressure acts in all directions at a point. It is not simply a downward push. The virtual probes are at the same depth and show the same pressure due to the water.",
+        "The model keeps liquid type and gravity fixed and shows liquid pressure relative to the surface; the surrounding air pressure is not added to the display. Different liquid densities can also affect pressure at a given depth.",
+        "Tanks and dams must withstand greater liquid pressure at greater depths, among other engineering demands. A simulation avoids holes, spills, diving or pressurised containers. Do not copy a pressure demonstration without a teacher."
+      ],
+      "challenge": "Explain why two probes at the same depth read equally, and predict what changes when both move deeper."
+    },
+    {
+      "title": "Useful science, safer choices",
+      "goal": "Connect energy and pressure to devices, everyday life and safety.",
+      "text": [
+        "In a simple hydraulic system, a change of pressure is transmitted through a confined liquid. Brake fluid can transfer a pedal input to a vehicle's brake mechanism. Friction at the brakes transfers some motion-related energy into thermal stores as the vehicle slows.",
+        "A syringe can move liquid when the plunger changes pressure. Hydraulic brakes use liquids, whereas bicycle pumps compress gas. Drinking through a straw involves a pressure difference: lower pressure in the mouth and straw allows atmospheric pressure on the drink to push liquid up.",
+        "A siphon can move liquid from a higher reservoir to a lower outlet when the system is suitably filled and arranged. Gravity and pressure differences matter; it is not a source of endless energy. Never start a siphon by mouth, especially with fuel or unknown liquids.",
+        "Stay away from mains wiring, hot devices, exposed moving machinery and pressurised containers. Do not look at the Sun or bright lasers, and protect hearing from excessive sound. Never burn fuels or run engines indoors because harmful gases can accumulate.",
+        "Seat belts and helmets help reduce injury risk; a learning animation does not replace correct use or road-safety rules. Real hydraulic systems, electrical devices, sharp tools and vehicles need trained supervision. Share explanations and source links, not unsafe experiments or personal student data."
+      ],
+      "challenge": "Choose one device: a brake, syringe, pump or straw. Explain the pressure idea, any energy transfers, and a safety precaution."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "unit": 0,
+      "prompt": "Which form of energy is associated with a moving bicycle?",
+      "answer": "Kinetic energy",
+      "explanation": "Motion is associated with kinetic energy.",
+      "options": [
+        "Chemical energy only",
+        "Nuclear energy only",
+        "No energy",
+        "Kinetic energy"
+      ]
+    },
+    {
+      "id": 2,
+      "unit": 0,
+      "prompt": "Which source is renewable on a human timescale?",
+      "answer": "Wind",
+      "explanation": "Wind is continually produced by atmospheric processes.",
+      "options": [
+        "Petroleum",
+        "Uranium",
+        "Wind",
+        "Coal"
+      ]
+    },
+    {
+      "id": 3,
+      "unit": 0,
+      "prompt": "Which source is non-renewable?",
+      "answer": "Coal",
+      "explanation": "Coal forms far more slowly than people use it.",
+      "options": [
+        "Flowing water",
+        "Coal",
+        "Sunlight",
+        "Wind"
+      ]
+    },
+    {
+      "id": 4,
+      "unit": 0,
+      "prompt": "A raised ball has more of which energy store relative to the floor?",
+      "answer": "Gravitational potential",
+      "explanation": "Height in a gravitational field matters even before motion.",
+      "options": [
+        "Gravitational potential",
+        "Sound only",
+        "Electrical only",
+        "None until it falls"
+      ]
+    },
+    {
+      "id": 5,
+      "unit": 0,
+      "prompt": "A battery stores energy mainly in what way?",
+      "answer": "Chemically",
+      "explanation": "Chemical processes in the battery can supply an electrical transfer.",
+      "options": [
+        "As stored light",
+        "As stored loudness",
+        "As wind",
+        "Chemically"
+      ]
+    },
+    {
+      "id": 6,
+      "unit": 0,
+      "prompt": "When can biomass be treated as renewable?",
+      "answer": "When regrowth keeps pace with use",
+      "explanation": "Renewability depends on replenishment and management.",
+      "options": [
+        "Only when burned indoors",
+        "When forests never regrow",
+        "When regrowth keeps pace with use",
+        "Whenever any tree is cut"
+      ]
+    },
+    {
+      "id": 7,
+      "unit": 0,
+      "prompt": "Why is uranium usually classed as non-renewable?",
+      "answer": "Mined supplies are finite",
+      "explanation": "Nuclear fuel is not a fossil fuel, but it is finite.",
+      "options": [
+        "It is a kind of sunlight",
+        "Mined supplies are finite",
+        "It is a fossil fuel",
+        "It comes from the wind"
+      ]
+    },
+    {
+      "id": 8,
+      "unit": 0,
+      "prompt": "Which statement about renewable energy is most accurate?",
+      "answer": "It can still have environmental impacts",
+      "explanation": "Renewable does not mean impact-free.",
+      "options": [
+        "It can still have environmental impacts",
+        "It is always available everywhere",
+        "It never needs equipment",
+        "It has no limitations"
+      ]
+    },
+    {
+      "id": 9,
+      "unit": 0,
+      "prompt": "Name two renewable energy sources.",
+      "answer": "For example, sunlight and wind.",
+      "explanation": "Flowing water and geothermal resources are other examples."
+    },
+    {
+      "id": 10,
+      "unit": 0,
+      "prompt": "Name two fossil fuels.",
+      "answer": "For example, coal and petroleum.",
+      "explanation": "Natural gas is also a fossil fuel."
+    },
+    {
+      "id": 11,
+      "unit": 0,
+      "prompt": "Distinguish a source from a form of energy.",
+      "answer": "A source supplies energy; a form describes how energy is stored or transferred.",
+      "explanation": "Wind is a source; kinetic energy describes motion."
+    },
+    {
+      "id": 12,
+      "unit": 0,
+      "prompt": "Give an example of elastic energy storage.",
+      "answer": "A stretched spring or elastic band.",
+      "explanation": "Discuss the example without launching objects."
+    },
+    {
+      "id": 13,
+      "unit": 0,
+      "prompt": "Why is wind generation variable?",
+      "answer": "Wind speed changes with weather and location.",
+      "explanation": "A renewable resource need not be constantly available."
+    },
+    {
+      "id": 14,
+      "unit": 0,
+      "prompt": "Why is coal not renewable for present-day human use?",
+      "answer": "Its natural formation is far slower than its consumption.",
+      "explanation": "Human timescales matter in the classification."
+    },
+    {
+      "id": 15,
+      "unit": 0,
+      "prompt": "Does a stationary raised object have zero energy? Explain.",
+      "answer": "No. It can have gravitational potential energy relative to a lower level.",
+      "explanation": "Not all energy is kinetic."
+    },
+    {
+      "id": 16,
+      "unit": 0,
+      "prompt": "Name an everyday use of sunlight.",
+      "answer": "For example, supplying a solar panel or helping dry clothes.",
+      "explanation": "A solar panel and solar heating use different transfer pathways."
+    },
+    {
+      "id": 17,
+      "unit": 0,
+      "prompt": "Why is electricity not automatically renewable?",
+      "answer": "It can be generated using renewable or non-renewable resources.",
+      "explanation": "Check the primary energy source."
+    },
+    {
+      "id": 18,
+      "unit": 0,
+      "prompt": "Give one possible environmental concern about an energy project.",
+      "answer": "For example, habitat disruption, air pollution or land use.",
+      "explanation": "The concern depends on the type and location of the project."
+    },
+    {
+      "id": 19,
+      "unit": 0,
+      "prompt": "What information helps a community compare two energy sources?",
+      "answer": "Availability, reliability, cost, safety and environmental effects.",
+      "explanation": "There is rarely a single factor to consider."
+    },
+    {
+      "id": 20,
+      "unit": 0,
+      "prompt": "What does a sound-producing object transfer to its surroundings?",
+      "answer": "Energy through vibrations in a medium.",
+      "explanation": "Sound requires a medium; it is not a material substance."
+    },
+    {
+      "id": 21,
+      "unit": 1,
+      "prompt": "As a ball falls from rest in the ideal no-air-resistance model, what increases?",
+      "answer": "Kinetic energy",
+      "explanation": "The loss of gravitational potential energy becomes kinetic energy.",
+      "options": [
+        "Gravitational potential energy",
+        "Its total mechanical energy",
+        "Its mass",
+        "Kinetic energy"
+      ]
+    },
+    {
+      "id": 22,
+      "unit": 1,
+      "prompt": "What supplies the energy in a battery torch?",
+      "answer": "Chemical energy stored in the battery",
+      "explanation": "The battery can supply an electrical transfer.",
+      "options": [
+        "The darkness",
+        "Energy created by the bulb",
+        "Chemical energy stored in the battery",
+        "Light stored in the switch"
+      ]
+    },
+    {
+      "id": 23,
+      "unit": 1,
+      "prompt": "Which device mainly converts an electrical transfer into motion?",
+      "answer": "Electric motor",
+      "explanation": "Motors produce mechanical motion.",
+      "options": [
+        "Microphone",
+        "Electric motor",
+        "Generator",
+        "Solar panel"
+      ]
+    },
+    {
+      "id": 24,
+      "unit": 1,
+      "prompt": "Which device uses movement to supply an electrical transfer?",
+      "answer": "Generator",
+      "explanation": "A generator is driven mechanically.",
+      "options": [
+        "Generator",
+        "Electric heater",
+        "Loudspeaker",
+        "Kettle"
+      ]
+    },
+    {
+      "id": 25,
+      "unit": 1,
+      "prompt": "What is a less useful output of many lamps?",
+      "answer": "Warming the surroundings",
+      "explanation": "Not all input is converted into useful light.",
+      "options": [
+        "Creation of matter",
+        "Destruction of all energy",
+        "Production of coal",
+        "Warming the surroundings"
+      ]
+    },
+    {
+      "id": 26,
+      "unit": 1,
+      "prompt": "What is the main energy input to a solar photovoltaic panel?",
+      "answer": "Light",
+      "explanation": "A photovoltaic panel supplies an electrical output from light.",
+      "options": [
+        "Stored petrol",
+        "A moving handle",
+        "Light",
+        "Sound"
+      ]
+    },
+    {
+      "id": 27,
+      "unit": 1,
+      "prompt": "What happens to energy described as wasted?",
+      "answer": "It is transferred to less useful stores or pathways",
+      "explanation": "Energy is conserved even when dispersed.",
+      "options": [
+        "It is always destroyed",
+        "It is transferred to less useful stores or pathways",
+        "It disappears from existence",
+        "It becomes massless dust"
+      ]
+    },
+    {
+      "id": 28,
+      "unit": 1,
+      "prompt": "Rubbing hands mainly warms them through what process?",
+      "answer": "Friction",
+      "explanation": "Mechanical activity transfers energy to thermal stores.",
+      "options": [
+        "Friction",
+        "Photosynthesis",
+        "Freezing",
+        "Nuclear fusion"
+      ]
+    },
+    {
+      "id": 29,
+      "unit": 1,
+      "prompt": "State the conservation-of-energy idea in your own words.",
+      "answer": "Energy can be transferred or transformed, but is not created or destroyed.",
+      "explanation": "Track the whole system and surroundings."
+    },
+    {
+      "id": 30,
+      "unit": 1,
+      "prompt": "Give the main energy chain for a torch.",
+      "answer": "Chemical store in battery, electrical transfer, light and warming.",
+      "explanation": "Include the less useful thermal transfer."
+    },
+    {
+      "id": 31,
+      "unit": 1,
+      "prompt": "What decreases as a ball falls towards the ground?",
+      "answer": "Its gravitational potential energy relative to the ground.",
+      "explanation": "Its kinetic energy increases in the ideal model."
+    },
+    {
+      "id": 32,
+      "unit": 1,
+      "prompt": "What assumption keeps mechanical energy constant in the falling-ball animation?",
+      "answer": "Air resistance and other dissipative effects are ignored before impact.",
+      "explanation": "A real falling object is not perfectly isolated."
+    },
+    {
+      "id": 33,
+      "unit": 1,
+      "prompt": "Why is a moving ball not an endless energy source?",
+      "answer": "Its energy came from earlier transfers and becomes dispersed through interactions.",
+      "explanation": "A perpetual motion source would contradict energy accounting."
+    },
+    {
+      "id": 34,
+      "unit": 1,
+      "prompt": "Describe the energy chain in hydroelectric generation.",
+      "answer": "Gravitational energy of water, motion of water and turbine, electrical transfer from a generator.",
+      "explanation": "Real systems also warm their surroundings and produce sound."
+    },
+    {
+      "id": 35,
+      "unit": 1,
+      "prompt": "Give a useful output of an electric heater.",
+      "answer": "Heating the room or intended object.",
+      "explanation": "An output is useful relative to a purpose."
+    },
+    {
+      "id": 36,
+      "unit": 1,
+      "prompt": "Why is heat not always a wasted output?",
+      "answer": "Heating can be the intended function of a device.",
+      "explanation": "A heater and a lamp have different purposes."
+    },
+    {
+      "id": 37,
+      "unit": 1,
+      "prompt": "Describe a microphone's main transformation.",
+      "answer": "Sound-related vibrations are converted into an electrical signal.",
+      "explanation": "The signal can then be amplified or recorded."
+    },
+    {
+      "id": 38,
+      "unit": 1,
+      "prompt": "How do a motor and a generator differ?",
+      "answer": "A motor uses an electrical supply for motion; a generator uses motion for an electrical supply.",
+      "explanation": "Their main transfer directions differ."
+    },
+    {
+      "id": 39,
+      "unit": 1,
+      "prompt": "What may happen to a ball's energy on impact?",
+      "answer": "It can become sound, warming and deformation of the ball and surface.",
+      "explanation": "The animation stops just before impact."
+    },
+    {
+      "id": 40,
+      "unit": 1,
+      "prompt": "Why should an energy diagram include the surroundings?",
+      "answer": "Some energy is transferred to them, so otherwise the accounting is incomplete.",
+      "explanation": "Less useful transfers still conserve energy."
+    },
+    {
+      "id": 41,
+      "unit": 2,
+      "prompt": "With force fixed, increasing contact area does what to pressure?",
+      "answer": "Decreases it",
+      "explanation": "The same force is spread over more area.",
+      "options": [
+        "Increases it",
+        "Always doubles it",
+        "Changes force into mass",
+        "Decreases it"
+      ]
+    },
+    {
+      "id": 42,
+      "unit": 2,
+      "prompt": "With area fixed, doubling force does what to pressure?",
+      "answer": "Doubles it",
+      "explanation": "Pressure is proportional to normal force at fixed area.",
+      "options": [
+        "Leaves it unchanged",
+        "Makes it zero",
+        "Doubles it",
+        "Halves it"
+      ]
+    },
+    {
+      "id": 43,
+      "unit": 2,
+      "prompt": "Pressure is force divided by what?",
+      "answer": "Contact area",
+      "explanation": "The area must be expressed in a suitable square unit.",
+      "options": [
+        "Temperature",
+        "Contact area",
+        "Speed",
+        "Mass"
+      ]
+    },
+    {
+      "id": 44,
+      "unit": 2,
+      "prompt": "Which unit measures force?",
+      "answer": "Newton",
+      "explanation": "Mass and force are different quantities.",
+      "options": [
+        "Newton",
+        "Kilogram",
+        "Square metre",
+        "Degree Celsius"
+      ]
+    },
+    {
+      "id": 45,
+      "unit": 2,
+      "prompt": "Why can wide bag straps feel more comfortable?",
+      "answer": "They spread force over a larger area",
+      "explanation": "The same load can produce less pressure.",
+      "options": [
+        "They remove gravity",
+        "They destroy the bag's mass",
+        "They always make the load lighter",
+        "They spread force over a larger area"
+      ]
+    },
+    {
+      "id": 46,
+      "unit": 2,
+      "prompt": "A sharper cutting edge has a smaller contact area. At the same force, its pressure is what?",
+      "answer": "Higher",
+      "explanation": "A smaller area concentrates the force.",
+      "options": [
+        "Always zero",
+        "Unrelated to area",
+        "Higher",
+        "Lower"
+      ]
+    },
+    {
+      "id": 47,
+      "unit": 2,
+      "prompt": "What does normal force mean here?",
+      "answer": "Force perpendicular to the surface",
+      "explanation": "Only the perpendicular component enters this simple pressure comparison.",
+      "options": [
+        "A temperature",
+        "Force perpendicular to the surface",
+        "An average person's strength",
+        "Force along any direction"
+      ]
+    },
+    {
+      "id": 48,
+      "unit": 2,
+      "prompt": "Which change lowers pressure on soft ground for the same load?",
+      "answer": "Using a wider support",
+      "explanation": "Increasing contact area reduces average pressure.",
+      "options": [
+        "Using a wider support",
+        "Using a smaller support",
+        "Increasing the load",
+        "Standing on a narrower edge"
+      ]
+    },
+    {
+      "id": 49,
+      "unit": 2,
+      "prompt": "Explain the difference between mass and weight.",
+      "answer": "Mass is measured in kilograms; weight is a gravitational force measured in newtons.",
+      "explanation": "They are related, but they are not the same quantity."
+    },
+    {
+      "id": 50,
+      "unit": 2,
+      "prompt": "What happens to pressure if area doubles while force stays fixed?",
+      "answer": "It halves.",
+      "explanation": "Pressure is inversely related to contact area at fixed force."
+    },
+    {
+      "id": 51,
+      "unit": 2,
+      "prompt": "What happens if force and area both double?",
+      "answer": "Average pressure stays the same.",
+      "explanation": "The ratio of force to area is unchanged."
+    },
+    {
+      "id": 52,
+      "unit": 2,
+      "prompt": "Calculate pressure for 40 N on 40 square cm in the model's units.",
+      "answer": "10 kPa.",
+      "explanation": "40 divided by 40 is 1 N per square cm, equal to 10 kPa."
+    },
+    {
+      "id": 53,
+      "unit": 2,
+      "prompt": "Calculate pressure for 80 N on 40 square cm.",
+      "answer": "20 kPa.",
+      "explanation": "Doubling force at the same area doubles the pressure."
+    },
+    {
+      "id": 54,
+      "unit": 2,
+      "prompt": "Calculate pressure for 40 N on 80 square cm.",
+      "answer": "5 kPa.",
+      "explanation": "Doubling area at the same force halves pressure."
+    },
+    {
+      "id": 55,
+      "unit": 2,
+      "prompt": "Why can a wide foundation be useful?",
+      "answer": "It spreads the building's force over more ground area.",
+      "explanation": "Ground conditions and engineering design still matter."
+    },
+    {
+      "id": 56,
+      "unit": 2,
+      "prompt": "State one assumption of the solid-pressure model.",
+      "answer": "For example, contact pressure is treated as uniform.",
+      "explanation": "The force is also assumed perpendicular to the contact."
+    },
+    {
+      "id": 57,
+      "unit": 2,
+      "prompt": "Why should only one slider change in a fair comparison?",
+      "answer": "So the effect of force or area can be isolated.",
+      "explanation": "Changing both at once may hide the relationship."
+    },
+    {
+      "id": 58,
+      "unit": 2,
+      "prompt": "What does kPa stand for?",
+      "answer": "Kilopascal.",
+      "explanation": "One kilopascal is one thousand pascals."
+    },
+    {
+      "id": 59,
+      "unit": 2,
+      "prompt": "What is the SI unit of pressure?",
+      "answer": "Pascal.",
+      "explanation": "One pascal is one newton per square metre."
+    },
+    {
+      "id": 60,
+      "unit": 2,
+      "prompt": "Why is a force arrow not a measurement of pressure by itself?",
+      "answer": "Pressure also depends on the contact area.",
+      "explanation": "The same force can produce different pressures on different areas."
+    },
+    {
+      "id": 61,
+      "unit": 3,
+      "prompt": "In the same still liquid, pressure due to the liquid does what with greater depth?",
+      "answer": "Increases",
+      "explanation": "Deeper points support a greater overlying liquid column.",
+      "options": [
+        "Decreases",
+        "Always stays zero",
+        "Depends only on container colour",
+        "Increases"
+      ]
+    },
+    {
+      "id": 62,
+      "unit": 3,
+      "prompt": "Two points at equal depth in the same connected still liquid have what pressure?",
+      "answer": "Equal pressure",
+      "explanation": "At the same depth under the same conditions, liquid pressure is equal.",
+      "options": [
+        "No pressure",
+        "Pressure set by their labels",
+        "Equal pressure",
+        "Always different pressure"
+      ]
+    },
+    {
+      "id": 63,
+      "unit": 3,
+      "prompt": "Depth is measured in which direction?",
+      "answer": "Vertically below the surface",
+      "explanation": "Vertical depth is the relevant quantity.",
+      "options": [
+        "From the container label",
+        "Vertically below the surface",
+        "Along any curved wall",
+        "Only sideways"
+      ]
+    },
+    {
+      "id": 64,
+      "unit": 3,
+      "prompt": "At a point in a still liquid, pressure acts in what directions?",
+      "answer": "All directions",
+      "explanation": "Liquid pressure is not limited to one direction.",
+      "options": [
+        "All directions",
+        "Downwards only",
+        "Upwards only",
+        "To the left only"
+      ]
+    },
+    {
+      "id": 65,
+      "unit": 3,
+      "prompt": "Which comparison best isolates the effect of depth?",
+      "answer": "Use the same liquid and move a probe deeper",
+      "explanation": "Keep other relevant factors fixed.",
+      "options": [
+        "Change liquid and depth together",
+        "Change every condition",
+        "Use different planet gravities",
+        "Use the same liquid and move a probe deeper"
+      ]
+    },
+    {
+      "id": 66,
+      "unit": 3,
+      "prompt": "Why are deeper parts of a dam subject to greater liquid pressure?",
+      "answer": "Pressure increases with depth",
+      "explanation": "A real dam also has other engineering requirements.",
+      "options": [
+        "Gravity stops at the surface",
+        "Pressure only exists in air",
+        "Pressure increases with depth",
+        "Water becomes a solid at the bottom"
+      ]
+    },
+    {
+      "id": 67,
+      "unit": 3,
+      "prompt": "At the liquid surface, what is the modelled pressure due to the liquid above that point?",
+      "answer": "Zero",
+      "explanation": "The display excludes the surrounding air pressure.",
+      "options": [
+        "Negative mass",
+        "Zero",
+        "The highest reading",
+        "Always 100 kPa"
+      ]
+    },
+    {
+      "id": 68,
+      "unit": 3,
+      "prompt": "Which other liquid property can affect pressure at a fixed depth?",
+      "answer": "Density",
+      "explanation": "The model keeps liquid type fixed.",
+      "options": [
+        "Density",
+        "Colour alone",
+        "Name of the container",
+        "Printed logo"
+      ]
+    },
+    {
+      "id": 69,
+      "unit": 3,
+      "prompt": "Describe what happens as the virtual probes move deeper.",
+      "answer": "Both show greater pressure due to the water.",
+      "explanation": "They stay at equal depth and therefore remain equal."
+    },
+    {
+      "id": 70,
+      "unit": 3,
+      "prompt": "Why do the two probes show equal pressure?",
+      "answer": "They are at the same vertical depth in the same liquid at rest.",
+      "explanation": "Horizontal position alone does not change this relationship."
+    },
+    {
+      "id": 71,
+      "unit": 3,
+      "prompt": "Does a wide tank always have greater pressure than a narrow tank at the same depth?",
+      "answer": "No, not for the same liquid and surface conditions at rest.",
+      "explanation": "Depth and liquid properties matter, not width alone."
+    },
+    {
+      "id": 72,
+      "unit": 3,
+      "prompt": "Why is 'liquid pressure only pushes down' incorrect?",
+      "answer": "Pressure at a point acts in all directions.",
+      "explanation": "Container sides also experience pressure forces."
+    },
+    {
+      "id": 73,
+      "unit": 3,
+      "prompt": "What does the virtual pressure bar leave out?",
+      "answer": "The surrounding air pressure.",
+      "explanation": "It displays pressure due to the liquid relative to the surface."
+    },
+    {
+      "id": 74,
+      "unit": 3,
+      "prompt": "Does a zero reading at the surface mean there is no atmospheric pressure?",
+      "answer": "No.",
+      "explanation": "A relative display is not the total absolute pressure."
+    },
+    {
+      "id": 75,
+      "unit": 3,
+      "prompt": "Why should a depth comparison use the same liquid?",
+      "answer": "Changing liquid density could change pressure independently of depth.",
+      "explanation": "That would make the comparison less controlled."
+    },
+    {
+      "id": 76,
+      "unit": 3,
+      "prompt": "What does qualitative treatment mean in this lesson?",
+      "answer": "Describe the trend without calculating exact liquid pressures.",
+      "explanation": "The important idea is greater depth means greater pressure."
+    },
+    {
+      "id": 77,
+      "unit": 3,
+      "prompt": "What is one reason the simulation is safer than an improvised pressure experiment?",
+      "answer": "It avoids pressurised containers, spills or dangerous diving.",
+      "explanation": "Do not drill or pressurise containers unsupervised."
+    },
+    {
+      "id": 78,
+      "unit": 3,
+      "prompt": "Where is pressure due to still water greater: near the top or deeper down?",
+      "answer": "Deeper down.",
+      "explanation": "Compare vertical depths under the same conditions."
+    },
+    {
+      "id": 79,
+      "unit": 3,
+      "prompt": "Why can changing container shape alone leave pressure at a point unchanged?",
+      "answer": "For the same liquid at rest, pressure depends on depth and surface conditions rather than shape alone.",
+      "explanation": "The point must remain at the same vertical depth."
+    },
+    {
+      "id": 80,
+      "unit": 3,
+      "prompt": "What should a learner do before a real liquid-pressure practical?",
+      "answer": "Follow the teacher's approved method and safety instructions.",
+      "explanation": "A conceptual animation is not a practical procedure."
+    },
+    {
+      "id": 81,
+      "unit": 4,
+      "prompt": "Hydraulic brakes mainly transmit pressure through what?",
+      "answer": "A confined liquid",
+      "explanation": "Brake fluid transmits a pressure change.",
+      "options": [
+        "An empty vacuum",
+        "A sheet of paper",
+        "Light alone",
+        "A confined liquid"
+      ]
+    },
+    {
+      "id": 82,
+      "unit": 4,
+      "prompt": "As friction brakes slow a vehicle, some kinetic energy becomes what?",
+      "answer": "Thermal energy in brakes and surroundings",
+      "explanation": "The energy is transferred, not destroyed.",
+      "options": [
+        "New coal",
+        "A greater vehicle mass",
+        "Thermal energy in brakes and surroundings",
+        "Destroyed energy"
+      ]
+    },
+    {
+      "id": 83,
+      "unit": 4,
+      "prompt": "Which device mainly compresses gas rather than liquid?",
+      "answer": "Bicycle pump",
+      "explanation": "A pump can force compressed air into a tyre.",
+      "options": [
+        "Water tank wall",
+        "Bicycle pump",
+        "Liquid-filled hydraulic line",
+        "Water-filled syringe in a liquid model"
+      ]
+    },
+    {
+      "id": 84,
+      "unit": 4,
+      "prompt": "What helps push a drink up a straw?",
+      "answer": "Atmospheric pressure acting on the drink",
+      "explanation": "Lower pressure in the straw creates the needed difference.",
+      "options": [
+        "Atmospheric pressure acting on the drink",
+        "A vacuum pulling without any pressure difference",
+        "Water creating energy",
+        "The straw destroying gravity"
+      ]
+    },
+    {
+      "id": 85,
+      "unit": 4,
+      "prompt": "Which is a safe approach to a hydraulic-brake lesson?",
+      "answer": "Use a simulation and teacher explanation",
+      "explanation": "Real brake systems are safety-critical.",
+      "options": [
+        "Open a vehicle brake line",
+        "Test brakes on a busy road",
+        "Pressurise unknown containers",
+        "Use a simulation and teacher explanation"
+      ]
+    },
+    {
+      "id": 86,
+      "unit": 4,
+      "prompt": "Which energy-related hazard should be avoided?",
+      "answer": "Looking directly at the Sun",
+      "explanation": "Bright light can damage eyes.",
+      "options": [
+        "Using the virtual slider",
+        "Discussing energy sources",
+        "Looking directly at the Sun",
+        "Reading a diagram"
+      ]
+    },
+    {
+      "id": 87,
+      "unit": 4,
+      "prompt": "Why should fuels not be burned in enclosed indoor spaces?",
+      "answer": "Harmful gases can accumulate",
+      "explanation": "Combustion can cause poisoning as well as fires.",
+      "options": [
+        "It removes all fire risk",
+        "Harmful gases can accumulate",
+        "It makes energy renewable",
+        "Indoor air cancels gravity"
+      ]
+    },
+    {
+      "id": 88,
+      "unit": 4,
+      "prompt": "What is a safe rule for siphons?",
+      "answer": "Never start one by mouth with fuel or unknown liquids",
+      "explanation": "Use teacher-approved demonstrations or simulations.",
+      "options": [
+        "Never start one by mouth with fuel or unknown liquids",
+        "Taste the liquid first",
+        "Use any chemical without supervision",
+        "Treat it as an endless energy source"
+      ]
+    },
+    {
+      "id": 89,
+      "unit": 4,
+      "prompt": "Explain the pressure role of brake fluid.",
+      "answer": "It transmits a pressure change through a confined liquid to the brake mechanism.",
+      "explanation": "The actual system has components not fully shown in the animation."
+    },
+    {
+      "id": 90,
+      "unit": 4,
+      "prompt": "What happens to some motion-related energy when brakes act?",
+      "answer": "It is transferred into thermal stores of the brakes and surroundings.",
+      "explanation": "It is not destroyed."
+    },
+    {
+      "id": 91,
+      "unit": 4,
+      "prompt": "How does a straw demonstrate a pressure difference?",
+      "answer": "Reducing pressure inside allows outside air pressure to push the drink up.",
+      "explanation": "Suction is not a new source of energy."
+    },
+    {
+      "id": 92,
+      "unit": 4,
+      "prompt": "How does a bicycle pump differ from a simple hydraulic system?",
+      "answer": "The pump compresses gas; the hydraulic system transmits pressure through liquid.",
+      "explanation": "Liquids are much less compressible than gases."
+    },
+    {
+      "id": 93,
+      "unit": 4,
+      "prompt": "Name one safety precaution around electrical energy.",
+      "answer": "Keep away from exposed mains wiring and use only approved supervised equipment.",
+      "explanation": "A simulation requires no real circuit construction."
+    },
+    {
+      "id": 94,
+      "unit": 4,
+      "prompt": "Name one precaution around loud sound.",
+      "answer": "Avoid excessive volume and use suitable hearing protection where needed.",
+      "explanation": "Sound can carry enough energy to harm hearing."
+    },
+    {
+      "id": 95,
+      "unit": 4,
+      "prompt": "Why is an animation not a guide to repairing brakes?",
+      "answer": "It omits safety-critical details and is only a conceptual model.",
+      "explanation": "Vehicle work requires competent trained personnel."
+    },
+    {
+      "id": 96,
+      "unit": 4,
+      "prompt": "Why is a siphon not an endless energy source?",
+      "answer": "Its flow uses gravitational and pressure differences that cannot supply unlimited energy.",
+      "explanation": "Energy conservation still applies."
+    },
+    {
+      "id": 97,
+      "unit": 4,
+      "prompt": "Give a safety reason to keep hands away from moving machinery.",
+      "answer": "Moving parts can trap or injure hands.",
+      "explanation": "Study the energy transfer without touching equipment."
+    },
+    {
+      "id": 98,
+      "unit": 4,
+      "prompt": "How can learners share their work while protecting privacy?",
+      "answer": "Share an explanation or lesson link without names and personal results.",
+      "explanation": "The original curriculum can be referenced by an official link."
+    },
+    {
+      "id": 99,
+      "unit": 4,
+      "prompt": "What should a learner do if a classroom device seems hot or damaged?",
+      "answer": "Stop using it and tell the teacher without touching hazardous parts.",
+      "explanation": "Do not attempt an unsupervised repair."
+    },
+    {
+      "id": 100,
+      "unit": 4,
+      "prompt": "Describe a safe community energy-learning activity.",
+      "answer": "For example, compare local energy sources using observation, public information and discussion.",
+      "explanation": "Do not enter power sites, climb structures or handle hazardous equipment."
+    }
+  ],
+  "flashcards": [
+    [
+      "Kinetic energy",
+      "Energy associated with motion."
+    ],
+    [
+      "Gravitational potential energy",
+      "Energy stored because of position in a gravitational field, relative to a reference level."
+    ],
+    [
+      "Renewable source",
+      "A resource replenished on a human timescale; sustainable management can matter."
+    ],
+    [
+      "Non-renewable source",
+      "A finite resource, or one formed far more slowly than it is used."
+    ],
+    [
+      "Energy conservation",
+      "Energy is transferred or transformed, not created or destroyed."
+    ],
+    [
+      "Less useful energy",
+      "Energy dispersed into stores or pathways that are less useful for the intended purpose."
+    ],
+    [
+      "Pressure on a solid",
+      "Normal force per unit contact area. More area at the same force means lower average pressure."
+    ],
+    [
+      "Pressure in a still liquid",
+      "At greater depth in the same liquid, pressure due to the liquid is greater."
+    ],
+    [
+      "Equal-depth probes",
+      "In the same connected liquid at rest and under the same surface conditions, equal depth means equal pressure."
+    ],
+    [
+      "Hydraulic system",
+      "A system transmitting a pressure change through a confined liquid."
+    ]
+  ]
+}

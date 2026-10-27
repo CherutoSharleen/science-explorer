@@ -1,0 +1,1043 @@
+{
+  "units": [
+    {
+      "title": "Atoms, elements & molecules",
+      "goal": "Distinguish an atom, an element, a molecule and a compound.",
+      "text": [
+        "An element contains one type of atom. An atom is the smallest unit that retains an element's chemical identity. The coloured balls in our model stand for whole atoms; they are not photographs or drawn to scale.",
+        "A molecule has two or more atoms bonded together. An oxygen molecule contains oxygen atoms only, so it is still an element. A water molecule contains hydrogen and oxygen atoms, so water is a compound.",
+        "A compound contains different elements chemically combined in fixed proportions. Not all compounds consist of separate molecules: sodium chloride forms an extended ionic structure. Not all elements consist of isolated atoms.",
+        "A mixture contains substances physically combined rather than chemically joined in one fixed composition. A model's colour key represents atom identity; real atoms are not coloured classroom balls."
+      ],
+      "challenge": "Explain why oxygen molecules represent an element but water molecules represent a compound."
+    },
+    {
+      "title": "Speak in symbols",
+      "goal": "Use the correct symbols and capitalisation for selected elements.",
+      "text": [
+        "An element symbol is a short international label. A one-letter symbol is capitalised. In a two-letter symbol, the first letter is a capital and the second is lowercase.",
+        "Useful examples are oxygen O, carbon C, hydrogen H, nitrogen N, iron Fe, aluminium Al and copper Cu. Silver is Ag, gold Au, chlorine Cl, sodium Na, mercury Hg and lead Pb.",
+        "Some symbols come from historical names, so they are not always the first letters of the English name. Cu is copper; C is carbon. Cl is chlorine, not the letters C and capital I.",
+        "An element symbol and a substance formula serve different purposes. O is the symbol for oxygen; O2 describes a molecule with two oxygen atoms. Learning the key prevents ambiguous labels."
+      ],
+      "challenge": "Explain why CO and Co would not mean the same thing, even though only one capital letter changes."
+    },
+    {
+      "title": "Word equations",
+      "goal": "Identify reactants and products in simple word equations.",
+      "text": [
+        "A word equation describes a chemical reaction using substance names. Reactants appear before the arrow; products appear after it. The arrow means 'forms' or 'produces', not 'is identical to'.",
+        "Examples include hydrogen plus oxygen forming water, carbon plus oxygen forming carbon dioxide, and copper plus oxygen forming copper oxide. Aluminium can react with oxygen to form aluminium oxide.",
+        "Sodium and chlorine can form sodium chloride. These reactants can be hazardous: this is a reading and modelling activity, not an instruction to mix or burn elements.",
+        "Atoms are rearranged in chemical reactions rather than created from nothing. Word equations name the substances; balancing symbolic equations is a separate task and is not required in this introduction."
+      ],
+      "challenge": "For carbon plus oxygen forming carbon dioxide, identify the reactants and product without performing the reaction."
+    },
+    {
+      "title": "Read a compound",
+      "goal": "Identify element types in selected two-element compounds.",
+      "text": [
+        "Compound names and formulae help identify their elements. Water contains hydrogen and oxygen; carbon dioxide contains carbon and oxygen; sodium chloride contains sodium and chlorine.",
+        "Copper oxide contains copper and oxygen. Aluminium oxide contains aluminium and oxygen. These examples each contain two element types even when the total atom count is greater than two.",
+        "In the formula H2O, the small 2 means two hydrogen atoms per water molecule; the unnumbered O means one oxygen atom. CO2 represents one carbon and two oxygen atoms per molecule.",
+        "NaCl describes a one-to-one ratio in an extended ionic structure, not a separate sodium-chloride molecule. Chemical formulae are case-sensitive, and composition alone does not tell you whether a substance is safe."
+      ],
+      "challenge": "Explain the difference between 'two elements' and 'two atoms' using a water molecule."
+    },
+    {
+      "title": "Useful materials & labels",
+      "goal": "Connect elements and compounds with uses and safe label reading.",
+      "text": [
+        "Copper is useful in electrical wiring because it conducts electricity well. Iron is widely used in structures, often as part of alloys such as steel. Aluminium is relatively light and is used in many frames and containers.",
+        "Gold and silver are used in jewellery and decorative objects. Their value, durability and appearance influence choices. A real object may be an alloy or coated material rather than a pure element.",
+        "Labels can identify ingredients and quantities. A food label may list a compound containing sodium rather than sodium metal. Read the name and context instead of assuming every mention of an element means the pure element is present.",
+        "Mercury and lead are hazardous. Learn their symbols from models and reliable information, not by opening equipment or handling unknown materials. Never taste laboratory samples, touch exposed wiring or take supplements because of a classroom exercise."
+      ],
+      "challenge": "Choose a safe packaging label and explain one ingredient name without assuming it is a pure element."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "unit": 0,
+      "prompt": "An element contains how many types of atom?",
+      "answer": "One",
+      "explanation": "An element is defined by one atom type.",
+      "options": [
+        "Two in every case",
+        "None",
+        "An unlimited mixture",
+        "One"
+      ]
+    },
+    {
+      "id": 2,
+      "unit": 0,
+      "prompt": "Which model represents a compound molecule?",
+      "answer": "Hydrogen and oxygen atoms bonded together",
+      "explanation": "A compound contains different elements chemically combined.",
+      "options": [
+        "Two oxygen atoms bonded",
+        "Unbonded oxygen atoms only",
+        "Hydrogen and oxygen atoms bonded together",
+        "One iron atom"
+      ]
+    },
+    {
+      "id": 3,
+      "unit": 0,
+      "prompt": "Two bonded oxygen atoms form what?",
+      "answer": "A molecule of an element",
+      "explanation": "Bonding two atoms of the same element does not make a compound.",
+      "options": [
+        "A new element",
+        "A molecule of an element",
+        "A compound of two elements",
+        "A mixture of metals"
+      ]
+    },
+    {
+      "id": 4,
+      "unit": 0,
+      "prompt": "Which is a compound?",
+      "answer": "Water",
+      "explanation": "Water contains hydrogen and oxygen chemically combined.",
+      "options": [
+        "Water",
+        "Pure copper",
+        "Oxygen",
+        "Gold"
+      ]
+    },
+    {
+      "id": 5,
+      "unit": 0,
+      "prompt": "Which is a mixture?",
+      "answer": "Air",
+      "explanation": "Air contains several substances physically mixed.",
+      "options": [
+        "Pure water",
+        "Pure gold",
+        "Pure sodium chloride",
+        "Air"
+      ]
+    },
+    {
+      "id": 6,
+      "unit": 0,
+      "prompt": "What do coloured balls represent in this lesson?",
+      "answer": "Whole atoms in a simplified model",
+      "explanation": "Model colours are an identification key.",
+      "options": [
+        "Cells",
+        "Measured atom photographs",
+        "Whole atoms in a simplified model",
+        "Literal coloured planets"
+      ]
+    },
+    {
+      "id": 7,
+      "unit": 0,
+      "prompt": "Which statement about compounds is accurate?",
+      "answer": "Not all consist of separate molecules",
+      "explanation": "Ionic compounds can form extended structures.",
+      "options": [
+        "All are safe to taste",
+        "Not all consist of separate molecules",
+        "All contain one atom type",
+        "Every compound is a mixture"
+      ]
+    },
+    {
+      "id": 8,
+      "unit": 0,
+      "prompt": "A water molecule has how many element types?",
+      "answer": "Two",
+      "explanation": "Hydrogen and oxygen are the two types.",
+      "options": [
+        "Two",
+        "One",
+        "Three",
+        "Zero"
+      ]
+    },
+    {
+      "id": 9,
+      "unit": 0,
+      "prompt": "Define an atom.",
+      "answer": "The smallest unit retaining an element's chemical identity.",
+      "explanation": "An atom is not the same as a cell."
+    },
+    {
+      "id": 10,
+      "unit": 0,
+      "prompt": "Define an element.",
+      "answer": "A substance containing one type of atom.",
+      "explanation": "Its atoms may be bonded to others of the same type."
+    },
+    {
+      "id": 11,
+      "unit": 0,
+      "prompt": "Define a molecule.",
+      "answer": "Two or more atoms bonded together as a discrete group.",
+      "explanation": "A molecule can contain one or more element types."
+    },
+    {
+      "id": 12,
+      "unit": 0,
+      "prompt": "Define a compound.",
+      "answer": "Different elements chemically combined in fixed proportions.",
+      "explanation": "Physical mixing alone does not make a compound."
+    },
+    {
+      "id": 13,
+      "unit": 0,
+      "prompt": "Explain why an oxygen molecule is not a compound.",
+      "answer": "It contains only oxygen atoms.",
+      "explanation": "A compound requires different elements."
+    },
+    {
+      "id": 14,
+      "unit": 0,
+      "prompt": "Name the elements in water.",
+      "answer": "Hydrogen and oxygen.",
+      "explanation": "Water is not a new element."
+    },
+    {
+      "id": 15,
+      "unit": 0,
+      "prompt": "Why is air a mixture?",
+      "answer": "Its different gases are physically combined rather than all bonded into one compound.",
+      "explanation": "Its composition can vary."
+    },
+    {
+      "id": 16,
+      "unit": 0,
+      "prompt": "Can a molecule also represent an element? Give an example.",
+      "answer": "Yes, an oxygen molecule.",
+      "explanation": "All its atoms belong to the same element."
+    },
+    {
+      "id": 17,
+      "unit": 0,
+      "prompt": "Why should sodium chloride not be pictured as isolated molecules without a caveat?",
+      "answer": "It forms an extended ionic structure.",
+      "explanation": "A formula unit gives a ratio, not a separate molecule."
+    },
+    {
+      "id": 18,
+      "unit": 0,
+      "prompt": "State one limitation of the ball model.",
+      "answer": "It is not to scale and the colours are only a key.",
+      "explanation": "Models select features rather than showing everything."
+    },
+    {
+      "id": 19,
+      "unit": 0,
+      "prompt": "How does a mixture differ from a compound?",
+      "answer": "A mixture is physically combined; a compound has chemically combined elements in fixed proportions.",
+      "explanation": "The distinction is not just appearance."
+    },
+    {
+      "id": 20,
+      "unit": 0,
+      "prompt": "Does joining two atoms always create a new element?",
+      "answer": "No.",
+      "explanation": "Element identity depends on atom type, not simply bonding."
+    },
+    {
+      "id": 21,
+      "unit": 1,
+      "prompt": "What is the symbol for oxygen?",
+      "answer": "O",
+      "explanation": "The selected element's symbol is a capital O.",
+      "options": [
+        "Ox",
+        "o",
+        "Og",
+        "O"
+      ]
+    },
+    {
+      "id": 22,
+      "unit": 1,
+      "prompt": "What is the symbol for iron?",
+      "answer": "Fe",
+      "explanation": "The second letter must be lowercase.",
+      "options": [
+        "FE",
+        "F",
+        "Fe",
+        "Ir"
+      ]
+    },
+    {
+      "id": 23,
+      "unit": 1,
+      "prompt": "Which symbol represents copper?",
+      "answer": "Cu",
+      "explanation": "C is carbon; Cu is copper.",
+      "options": [
+        "Co",
+        "Cu",
+        "C",
+        "CU"
+      ]
+    },
+    {
+      "id": 24,
+      "unit": 1,
+      "prompt": "Which symbol represents sodium?",
+      "answer": "Na",
+      "explanation": "Some symbols reflect historical names.",
+      "options": [
+        "Na",
+        "So",
+        "NA",
+        "S"
+      ]
+    },
+    {
+      "id": 25,
+      "unit": 1,
+      "prompt": "What is the symbol for gold?",
+      "answer": "Au",
+      "explanation": "Ag is silver, not gold.",
+      "options": [
+        "Go",
+        "AU",
+        "Ag",
+        "Au"
+      ]
+    },
+    {
+      "id": 26,
+      "unit": 1,
+      "prompt": "What is the symbol for silver?",
+      "answer": "Ag",
+      "explanation": "Silver's standard symbol is Ag.",
+      "options": [
+        "AG",
+        "Au",
+        "Ag",
+        "Si"
+      ]
+    },
+    {
+      "id": 27,
+      "unit": 1,
+      "prompt": "Which capitalisation is correct for chlorine?",
+      "answer": "Cl",
+      "explanation": "Use a capital first letter and lowercase second letter.",
+      "options": [
+        "cL",
+        "Cl",
+        "CL",
+        "cl"
+      ]
+    },
+    {
+      "id": 28,
+      "unit": 1,
+      "prompt": "Which is the symbol for lead?",
+      "answer": "Pb",
+      "explanation": "Lead uses the historical symbol Pb.",
+      "options": [
+        "Pb",
+        "Le",
+        "PB",
+        "Ld"
+      ]
+    },
+    {
+      "id": 29,
+      "unit": 1,
+      "prompt": "Write the symbol for carbon.",
+      "answer": "C.",
+      "explanation": "It is a one-letter capital symbol."
+    },
+    {
+      "id": 30,
+      "unit": 1,
+      "prompt": "Write the symbol for hydrogen.",
+      "answer": "H.",
+      "explanation": "Do not replace it with an invented abbreviation."
+    },
+    {
+      "id": 31,
+      "unit": 1,
+      "prompt": "Write the symbol for nitrogen.",
+      "answer": "N.",
+      "explanation": "The symbol is case-sensitive."
+    },
+    {
+      "id": 32,
+      "unit": 1,
+      "prompt": "Write the symbol for aluminium.",
+      "answer": "Al.",
+      "explanation": "The second character is lowercase l."
+    },
+    {
+      "id": 33,
+      "unit": 1,
+      "prompt": "Write the symbol for mercury.",
+      "answer": "Hg.",
+      "explanation": "Mercury is hazardous; a symbol exercise does not require handling it."
+    },
+    {
+      "id": 34,
+      "unit": 1,
+      "prompt": "Explain the difference between C and Cu.",
+      "answer": "C represents carbon; Cu represents copper.",
+      "explanation": "Capitalisation and the second letter matter."
+    },
+    {
+      "id": 35,
+      "unit": 1,
+      "prompt": "Explain the difference between Ag and Au.",
+      "answer": "Ag is silver and Au is gold.",
+      "explanation": "Similar-looking symbols can identify different elements."
+    },
+    {
+      "id": 36,
+      "unit": 1,
+      "prompt": "Correct the symbol FE for iron.",
+      "answer": "Fe.",
+      "explanation": "The second letter is lowercase."
+    },
+    {
+      "id": 37,
+      "unit": 1,
+      "prompt": "Correct the symbol na for sodium.",
+      "answer": "Na.",
+      "explanation": "The first letter is uppercase."
+    },
+    {
+      "id": 38,
+      "unit": 1,
+      "prompt": "Why are standard symbols useful?",
+      "answer": "They provide concise, internationally understood element labels.",
+      "explanation": "Invented local abbreviations could cause confusion."
+    },
+    {
+      "id": 39,
+      "unit": 1,
+      "prompt": "Does O2 replace O as the element's symbol?",
+      "answer": "No. O is the symbol; O2 is a molecular formula.",
+      "explanation": "The number describes atoms in the molecule."
+    },
+    {
+      "id": 40,
+      "unit": 1,
+      "prompt": "What is the general capitalisation rule for two-letter symbols?",
+      "answer": "Capital first letter, lowercase second letter.",
+      "explanation": "Changing case can change meaning."
+    },
+    {
+      "id": 41,
+      "unit": 2,
+      "prompt": "Where are reactants written in a word equation?",
+      "answer": "Before the arrow",
+      "explanation": "Reactants are the starting substances.",
+      "options": [
+        "After the arrow only",
+        "Only in a title",
+        "They are omitted",
+        "Before the arrow"
+      ]
+    },
+    {
+      "id": 42,
+      "unit": 2,
+      "prompt": "What does the reaction arrow mean?",
+      "answer": "Forms or produces",
+      "explanation": "It indicates the direction of the described reaction.",
+      "options": [
+        "Is always safe to mix",
+        "Contains no atoms",
+        "Forms or produces",
+        "Is the same substance as"
+      ]
+    },
+    {
+      "id": 43,
+      "unit": 2,
+      "prompt": "Hydrogen reacting with oxygen can form what?",
+      "answer": "Water",
+      "explanation": "Water contains hydrogen and oxygen.",
+      "options": [
+        "Sodium chloride",
+        "Water",
+        "Pure copper",
+        "Gold"
+      ]
+    },
+    {
+      "id": 44,
+      "unit": 2,
+      "prompt": "Carbon reacting with oxygen to make carbon dioxide has which product?",
+      "answer": "Carbon dioxide",
+      "explanation": "The product is named after the arrow.",
+      "options": [
+        "Carbon dioxide",
+        "Carbon only",
+        "Oxygen only",
+        "Copper oxide"
+      ]
+    },
+    {
+      "id": 45,
+      "unit": 2,
+      "prompt": "Copper plus oxygen can form what compound?",
+      "answer": "Copper oxide",
+      "explanation": "The compound contains copper and oxygen.",
+      "options": [
+        "Sodium chloride",
+        "Water",
+        "Aluminium oxide",
+        "Copper oxide"
+      ]
+    },
+    {
+      "id": 46,
+      "unit": 2,
+      "prompt": "Sodium plus chlorine can form what?",
+      "answer": "Sodium chloride",
+      "explanation": "The product combines sodium and chlorine.",
+      "options": [
+        "Copper",
+        "Hydrogen",
+        "Sodium chloride",
+        "Carbon dioxide"
+      ]
+    },
+    {
+      "id": 47,
+      "unit": 2,
+      "prompt": "What happens to atoms in an ordinary chemical reaction?",
+      "answer": "They are rearranged",
+      "explanation": "The model conserves atom types and numbers.",
+      "options": [
+        "They stop being matter",
+        "They are rearranged",
+        "They are all destroyed",
+        "They turn into cells"
+      ]
+    },
+    {
+      "id": 48,
+      "unit": 2,
+      "prompt": "Which activity is appropriate here?",
+      "answer": "Reading and modelling equations",
+      "explanation": "These examples are not practical instructions.",
+      "options": [
+        "Reading and modelling equations",
+        "Burning unknown powders",
+        "Mixing sodium with chlorine",
+        "Tasting products"
+      ]
+    },
+    {
+      "id": 49,
+      "unit": 2,
+      "prompt": "Name the reactants when water forms from hydrogen and oxygen.",
+      "answer": "Hydrogen and oxygen.",
+      "explanation": "These are the starting substances."
+    },
+    {
+      "id": 50,
+      "unit": 2,
+      "prompt": "Name the product of carbon plus oxygen in the example.",
+      "answer": "Carbon dioxide.",
+      "explanation": "The named product is after the arrow."
+    },
+    {
+      "id": 51,
+      "unit": 2,
+      "prompt": "Write a word equation for copper oxide formation.",
+      "answer": "Copper + oxygen -> copper oxide.",
+      "explanation": "This describes substances, not an experimental method."
+    },
+    {
+      "id": 52,
+      "unit": 2,
+      "prompt": "Write a word equation for aluminium oxide formation.",
+      "answer": "Aluminium + oxygen -> aluminium oxide.",
+      "explanation": "The product contains aluminium and oxygen."
+    },
+    {
+      "id": 53,
+      "unit": 2,
+      "prompt": "Write a word equation for sodium chloride formation.",
+      "answer": "Sodium + chlorine -> sodium chloride.",
+      "explanation": "Do not attempt this hazardous reaction."
+    },
+    {
+      "id": 54,
+      "unit": 2,
+      "prompt": "What is a product?",
+      "answer": "A substance formed in a reaction.",
+      "explanation": "It is written after the arrow in the word equation."
+    },
+    {
+      "id": 55,
+      "unit": 2,
+      "prompt": "What is a reactant?",
+      "answer": "A starting substance in a reaction.",
+      "explanation": "It is written before the arrow."
+    },
+    {
+      "id": 56,
+      "unit": 2,
+      "prompt": "Does a word equation by itself give a safe laboratory method?",
+      "answer": "No.",
+      "explanation": "Safety, equipment and supervision require separate assessment."
+    },
+    {
+      "id": 57,
+      "unit": 2,
+      "prompt": "Why is a reaction arrow not simply an equals sign?",
+      "answer": "It describes a transformation into products.",
+      "explanation": "Reactants and products have different chemical identities."
+    },
+    {
+      "id": 58,
+      "unit": 2,
+      "prompt": "Which elements are present in carbon dioxide?",
+      "answer": "Carbon and oxygen.",
+      "explanation": "Their atoms are rearranged into the product."
+    },
+    {
+      "id": 59,
+      "unit": 2,
+      "prompt": "Must you balance symbolic equations to identify reactants in this lesson?",
+      "answer": "No.",
+      "explanation": "Naming reactants and products is the introductory goal."
+    },
+    {
+      "id": 60,
+      "unit": 2,
+      "prompt": "What does conservation mean in the atom model?",
+      "answer": "The reaction rearranges atoms without losing or creating them.",
+      "explanation": "A useful model must keep its atom accounting consistent."
+    },
+    {
+      "id": 61,
+      "unit": 3,
+      "prompt": "Which elements are in carbon dioxide?",
+      "answer": "Carbon and oxygen",
+      "explanation": "The name identifies carbon and oxygen.",
+      "options": [
+        "Copper and oxygen",
+        "Carbon and sodium",
+        "Chlorine and gold",
+        "Carbon and oxygen"
+      ]
+    },
+    {
+      "id": 62,
+      "unit": 3,
+      "prompt": "Which elements are in sodium chloride?",
+      "answer": "Sodium and chlorine",
+      "explanation": "Chloride in this name relates to chlorine.",
+      "options": [
+        "Sodium and copper",
+        "Nitrogen and oxygen",
+        "Sodium and chlorine",
+        "Silver and carbon"
+      ]
+    },
+    {
+      "id": 63,
+      "unit": 3,
+      "prompt": "Which elements are in copper oxide?",
+      "answer": "Copper and oxygen",
+      "explanation": "Oxide indicates oxygen combined with another element.",
+      "options": [
+        "Chlorine and oxygen",
+        "Copper and oxygen",
+        "Carbon and oxygen",
+        "Copper and hydrogen"
+      ]
+    },
+    {
+      "id": 64,
+      "unit": 3,
+      "prompt": "A water molecule contains how many atoms in total?",
+      "answer": "Three",
+      "explanation": "Two hydrogen atoms and one oxygen atom make three.",
+      "options": [
+        "Three",
+        "Two",
+        "One",
+        "Four"
+      ]
+    },
+    {
+      "id": 65,
+      "unit": 3,
+      "prompt": "CO2 has how many element types?",
+      "answer": "Two",
+      "explanation": "C and O identify two types, despite three atoms per molecule.",
+      "options": [
+        "Three",
+        "One",
+        "Zero",
+        "Two"
+      ]
+    },
+    {
+      "id": 66,
+      "unit": 3,
+      "prompt": "Which pair is in aluminium oxide?",
+      "answer": "Aluminium and oxygen",
+      "explanation": "The two-element compound's name supplies the pair.",
+      "options": [
+        "Silver and oxygen",
+        "Iron and chlorine",
+        "Aluminium and oxygen",
+        "Aluminium and gold"
+      ]
+    },
+    {
+      "id": 67,
+      "unit": 3,
+      "prompt": "NaCl is best described here as what?",
+      "answer": "A ratio in an ionic structure",
+      "explanation": "Its formula is not a claim of isolated NaCl molecules.",
+      "options": [
+        "A cell",
+        "A ratio in an ionic structure",
+        "A separate molecule of every salt",
+        "An oxygen element"
+      ]
+    },
+    {
+      "id": 68,
+      "unit": 3,
+      "prompt": "Does knowing a formula guarantee safe handling?",
+      "answer": "No",
+      "explanation": "Safety depends on hazards, exposure and context.",
+      "options": [
+        "No",
+        "Yes, all compounds are safe",
+        "Only if it has two letters",
+        "Only if it is white"
+      ]
+    },
+    {
+      "id": 69,
+      "unit": 3,
+      "prompt": "Identify both element symbols in H2O.",
+      "answer": "H and O, representing hydrogen and oxygen.",
+      "explanation": "Element symbols identify composition, not safe handling."
+    },
+    {
+      "id": 70,
+      "unit": 3,
+      "prompt": "Name the elements in aluminium oxide.",
+      "answer": "Aluminium and oxygen.",
+      "explanation": "It contains two element types."
+    },
+    {
+      "id": 71,
+      "unit": 3,
+      "prompt": "Explain the 2 in H2O.",
+      "answer": "There are two hydrogen atoms per water molecule.",
+      "explanation": "The number applies to the preceding element symbol."
+    },
+    {
+      "id": 72,
+      "unit": 3,
+      "prompt": "How many oxygen atoms are shown in one CO2 molecule?",
+      "answer": "Two.",
+      "explanation": "The subscript follows O."
+    },
+    {
+      "id": 73,
+      "unit": 3,
+      "prompt": "How many carbon atoms are shown in one CO2 molecule?",
+      "answer": "One.",
+      "explanation": "An omitted number means one in this molecular formula."
+    },
+    {
+      "id": 74,
+      "unit": 3,
+      "prompt": "Why does water have two element types but three atoms per molecule?",
+      "answer": "Its molecule has two hydrogen atoms and one oxygen atom.",
+      "explanation": "Atom count and element-type count answer different questions."
+    },
+    {
+      "id": 75,
+      "unit": 3,
+      "prompt": "What element does oxide indicate in these compound names?",
+      "answer": "Oxygen.",
+      "explanation": "The other part of the name identifies the other element."
+    },
+    {
+      "id": 76,
+      "unit": 3,
+      "prompt": "Can a compound have properties different from its elements?",
+      "answer": "Yes.",
+      "explanation": "Combining chemically can produce a substance with very different properties."
+    },
+    {
+      "id": 77,
+      "unit": 3,
+      "prompt": "Why should a formula's capital letters be preserved?",
+      "answer": "They distinguish element symbols and prevent misreading.",
+      "explanation": "Chemical notation is case-sensitive."
+    },
+    {
+      "id": 78,
+      "unit": 3,
+      "prompt": "What does the Na-to-Cl ratio in NaCl indicate?",
+      "answer": "A one-to-one ratio.",
+      "explanation": "It does not mean a separate NaCl molecule."
+    },
+    {
+      "id": 79,
+      "unit": 3,
+      "prompt": "Why is a name not an invitation to taste a sample?",
+      "answer": "A known name does not remove its hazards.",
+      "explanation": "Laboratory samples must never be tasted."
+    },
+    {
+      "id": 80,
+      "unit": 3,
+      "prompt": "What is meant by a two-element compound?",
+      "answer": "A compound containing two different element types.",
+      "explanation": "It can contain more than two atoms in a molecular unit."
+    },
+    {
+      "id": 81,
+      "unit": 4,
+      "prompt": "Why is copper commonly used in wiring?",
+      "answer": "It conducts electricity well",
+      "explanation": "Material properties help explain uses.",
+      "options": [
+        "It is an electrical insulator",
+        "It is always the cheapest substance",
+        "It contains no atoms",
+        "It conducts electricity well"
+      ]
+    },
+    {
+      "id": 82,
+      "unit": 4,
+      "prompt": "Which element is often used in jewellery?",
+      "answer": "Gold",
+      "explanation": "Gold's appearance and durability are useful properties.",
+      "options": [
+        "Sodium metal",
+        "Oxygen gas",
+        "Gold",
+        "Chlorine gas"
+      ]
+    },
+    {
+      "id": 83,
+      "unit": 4,
+      "prompt": "Which element is a major part of ordinary steel?",
+      "answer": "Iron",
+      "explanation": "Steel is an alloy, not usually pure iron.",
+      "options": [
+        "Gold",
+        "Iron",
+        "Mercury",
+        "Chlorine"
+      ]
+    },
+    {
+      "id": 84,
+      "unit": 4,
+      "prompt": "Which is a safe way to study mercury?",
+      "answer": "Use models and reliable information",
+      "explanation": "Mercury can be hazardous.",
+      "options": [
+        "Use models and reliable information",
+        "Break open equipment",
+        "Touch a spill",
+        "Taste it"
+      ]
+    },
+    {
+      "id": 85,
+      "unit": 4,
+      "prompt": "A label lists sodium chloride. Does that mean it contains sodium metal?",
+      "answer": "No",
+      "explanation": "A compound is not the same as the separate pure element.",
+      "options": [
+        "Always",
+        "Only if the packet is white",
+        "Only if it is expensive",
+        "No"
+      ]
+    },
+    {
+      "id": 86,
+      "unit": 4,
+      "prompt": "What should you do with an unknown laboratory sample?",
+      "answer": "Follow the teacher's safety instructions",
+      "explanation": "Unknown samples may have hidden hazards.",
+      "options": [
+        "Smell it directly",
+        "Mix it with everything",
+        "Follow the teacher's safety instructions",
+        "Taste it"
+      ]
+    },
+    {
+      "id": 87,
+      "unit": 4,
+      "prompt": "Why might aluminium be chosen for a frame?",
+      "answer": "It is relatively light",
+      "explanation": "Different applications require different properties.",
+      "options": [
+        "It cannot form compounds",
+        "It is relatively light",
+        "It has no mass",
+        "It is a gas at room temperature"
+      ]
+    },
+    {
+      "id": 88,
+      "unit": 4,
+      "prompt": "What can a packaging label help identify?",
+      "answer": "Ingredients and stated quantities",
+      "explanation": "Read labels in context and follow safety information.",
+      "options": [
+        "Ingredients and stated quantities",
+        "Every possible safety fact",
+        "The exact position of every atom",
+        "A guarantee of purity"
+      ]
+    },
+    {
+      "id": 89,
+      "unit": 4,
+      "prompt": "Give one use of copper.",
+      "answer": "Electrical wiring.",
+      "explanation": "Good electrical conductivity supports that use."
+    },
+    {
+      "id": 90,
+      "unit": 4,
+      "prompt": "Give one use of iron-containing materials.",
+      "answer": "For example, building structures or tools made of steel.",
+      "explanation": "The object may be an alloy rather than pure iron."
+    },
+    {
+      "id": 91,
+      "unit": 4,
+      "prompt": "Give one use of gold or silver.",
+      "answer": "Jewellery or decorative objects.",
+      "explanation": "Appearance and durability affect material choice."
+    },
+    {
+      "id": 92,
+      "unit": 4,
+      "prompt": "Why may a metal object not be a pure element?",
+      "answer": "It may be an alloy, coating or combination of materials.",
+      "explanation": "Appearance alone cannot establish composition."
+    },
+    {
+      "id": 93,
+      "unit": 4,
+      "prompt": "What should you read before using a packaged product?",
+      "answer": "Its instructions, ingredients and safety information.",
+      "explanation": "A single chemical name is not the whole context."
+    },
+    {
+      "id": 94,
+      "unit": 4,
+      "prompt": "Explain why sodium in a food label is not an instruction to handle sodium metal.",
+      "answer": "The label may refer to sodium in compounds, not the pure reactive metal.",
+      "explanation": "Chemical form changes properties and hazards."
+    },
+    {
+      "id": 95,
+      "unit": 4,
+      "prompt": "Name two hazardous elements mentioned in this topic.",
+      "answer": "Mercury and lead.",
+      "explanation": "Study them without handling samples."
+    },
+    {
+      "id": 96,
+      "unit": 4,
+      "prompt": "Why must exposed wiring not be used as a classroom sample?",
+      "answer": "It can cause electric shock or other injury.",
+      "explanation": "A material-use discussion is not a practical wiring task."
+    },
+    {
+      "id": 97,
+      "unit": 4,
+      "prompt": "What property helps explain copper's use in electrical connections?",
+      "answer": "Good electrical conductivity.",
+      "explanation": "The chosen property should relate to the intended use."
+    },
+    {
+      "id": 98,
+      "unit": 4,
+      "prompt": "Does a valuable material always make the best tool?",
+      "answer": "No.",
+      "explanation": "Function, safety, strength and cost also matter."
+    },
+    {
+      "id": 99,
+      "unit": 4,
+      "prompt": "Why should a lesson not tell learners to take a mineral supplement?",
+      "answer": "Supplement decisions require appropriate health guidance, not a symbol exercise.",
+      "explanation": "Learning labels is not medical advice."
+    },
+    {
+      "id": 100,
+      "unit": 4,
+      "prompt": "How can learners share label findings safely?",
+      "answer": "Share an explanation without personal details or unsafe handling.",
+      "explanation": "Photograph only appropriate public packaging if permitted."
+    }
+  ],
+  "flashcards": [
+    [
+      "Atom",
+      "A unit retaining an element's chemical identity."
+    ],
+    [
+      "Element",
+      "One type of atom."
+    ],
+    [
+      "Molecule",
+      "A discrete group of bonded atoms."
+    ],
+    [
+      "Compound",
+      "Different elements chemically combined in fixed proportions."
+    ],
+    [
+      "Mixture",
+      "Substances physically combined."
+    ],
+    [
+      "Symbol rule",
+      "Capital first letter; lowercase second letter where present."
+    ],
+    [
+      "Cu / C",
+      "Copper / carbon."
+    ],
+    [
+      "Reactants",
+      "Starting substances before the reaction arrow."
+    ],
+    [
+      "Products",
+      "Substances formed after the reaction arrow."
+    ],
+    [
+      "NaCl",
+      "A one-to-one ratio in an extended ionic structure, not a separate molecule."
+    ]
+  ]
+}

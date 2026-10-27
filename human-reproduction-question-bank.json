@@ -1,0 +1,1044 @@
+{
+  "units": [
+    {
+      "title": "The menstrual cycle",
+      "goal": "Describe the main cycle events without treating a model as a personal prediction.",
+      "text": [
+        "The menstrual cycle includes changes in the ovaries and uterus. Menstruation is shedding of the uterine lining with bleeding. Day 1 is the first day of a period.",
+        "The lining later builds up, and ovulation is release of an egg from an ovary. If pregnancy does not occur, the lining can shed again and a new cycle begins. Detailed hormonal control is outside this introductory lesson.",
+        "A 28-day diagram is a teaching example, not a rule for every person. Cycle lengths, bleeding patterns and ovulation timing vary, especially during adolescence. The model must not be used to predict safe days or diagnose a condition.",
+        "Periods are a normal biological process, not a reason for shame, exclusion or teasing. Learn the vocabulary respectfully. This app does not collect dates, symptoms or any learner's personal menstrual history."
+      ],
+      "challenge": "Explain why a 28-day diagram cannot reliably predict an individual person's ovulation date."
+    },
+    {
+      "title": "Care, support & privacy",
+      "goal": "Recognise when support is appropriate without diagnosing symptoms.",
+      "text": [
+        "Cycle variation can occur, particularly in adolescence, but troublesome symptoms deserve support. Pain that disrupts daily activities, concerning heavy bleeding, bleeding between periods or worrying changes should be discussed with a qualified health professional.",
+        "A practical school support plan can include access to appropriate menstrual products, clean water, handwashing, private facilities and a trusted adult. Follow product instructions and local health guidance; this lesson does not prescribe medicine.",
+        "Do not dismiss severe pain or make a diagnosis from a class discussion. Feeling faint or seriously unwell, or severe bleeding or pain, needs prompt medical attention through a trusted adult or local health service.",
+        "Health information is private. A peer can offer respectful support without demanding details, posting photographs, sharing someone else's cycle information or giving unqualified treatment advice."
+      ],
+      "challenge": "Write a general school support plan that includes dignity and access to help without recording anyone's private symptoms."
+    },
+    {
+      "title": "Fertilisation",
+      "goal": "Describe fusion of sperm and egg at an introductory, non-graphic level.",
+      "text": [
+        "Sperm and eggs are reproductive cells, also called gametes. Fertilisation occurs when a sperm and egg fuse to form a fertilised egg, called a zygote.",
+        "In human reproduction, fertilisation usually occurs in an oviduct, also called a fallopian tube. It is not the same process as implantation in the uterus.",
+        "The fertilised egg can develop while travelling towards the uterus. This introductory lesson does not describe the detailed stages of early cell division or hormonal control.",
+        "The animation is a non-graphic schematic using labelled markers. Its movement and timing are exaggerated, and it is not a guide to predicting pregnancy or assessing an individual."
+      ],
+      "challenge": "Explain the difference between ovulation and fertilisation using the correct cell and organ names."
+    },
+    {
+      "title": "Implantation",
+      "goal": "Distinguish attachment in the uterus from fertilisation and menstruation.",
+      "text": [
+        "Implantation is attachment and embedding of an early developing embryo, at the blastocyst stage, in the uterine lining. The uterus provides the site; the usual fertilisation site is earlier in the oviduct.",
+        "The introductory sequence is ovulation, possible fertilisation, development and travel, then possible implantation. Not every released egg is fertilised, and not every fertilised egg successfully implants.",
+        "The lining has a role in supporting early pregnancy. A menstrual-cycle model showing a lining is not itself evidence that implantation or pregnancy has occurred.",
+        "The animated marker attaching to the model lining is a simplified illustration, not a medical scan. The lesson omits detailed blastocyst formation and cannot diagnose pregnancy or explain an individual's symptoms."
+      ],
+      "challenge": "Put the model's events in order and explain why a diagram cannot confirm that any event occurred in a real person."
+    },
+    {
+      "title": "STI knowledge without stigma",
+      "goal": "Recognise uncertainty, prevention principles and appropriate support.",
+      "text": [
+        "Sexually transmitted infections include HIV, gonorrhoea, syphilis and genital herpes. Many infections can have no noticeable symptoms, and symptoms such as unusual discharge, pain when urinating or sores can have more than one cause. Symptoms alone cannot identify or rule out an STI.",
+        "HIV and AIDS are not interchangeable terms: HIV infection can lead to AIDS without appropriate management. Effective professional care matters. HIV is not spread by ordinary casual contact such as hugging, so exclusion and stigma are not justified.",
+        "Avoiding sexual contact prevents sexual exposure. Correct and consistent condom use reduces the risk of many STIs but does not eliminate every risk, particularly where uncovered skin is involved. Appropriate health services can advise on testing, treatment and available vaccination.",
+        "Do not share needles or handle blood and sharps; seek help from trained adults for an exposure concern. Some infections can also be transmitted during pregnancy or birth or through unsafe blood exposure. Do not diagnose peers, share medicines or assume appearance shows infection status.",
+        "A personal concern, coercion or harm should be taken to a trusted adult and suitable health or safeguarding service. This is general education, not individual medical advice. The app asks no questions about personal sexual behaviour or symptoms."
+      ],
+      "challenge": "Explain why 'looks healthy' cannot establish STI status, and name a respectful route to qualified help."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "unit": 0,
+      "prompt": "What is menstruation?",
+      "answer": "Shedding of the uterine lining with bleeding",
+      "explanation": "Different cycle events have different names.",
+      "options": [
+        "Release of an egg only",
+        "Fertilisation itself",
+        "A type of microscope",
+        "Shedding of the uterine lining with bleeding"
+      ]
+    },
+    {
+      "id": 2,
+      "unit": 0,
+      "prompt": "What is day 1 of a menstrual cycle?",
+      "answer": "The first day of a period",
+      "explanation": "Cycle counting is not calendar-month counting.",
+      "options": [
+        "Always ovulation day",
+        "The day an app is opened",
+        "The first day of a period",
+        "Always the first day of a calendar month"
+      ]
+    },
+    {
+      "id": 3,
+      "unit": 0,
+      "prompt": "What is ovulation?",
+      "answer": "Release of an egg from an ovary",
+      "explanation": "It is distinct from menstruation and fertilisation.",
+      "options": [
+        "A pregnancy test",
+        "Release of an egg from an ovary",
+        "Implantation in the uterus",
+        "Shedding a cell wall"
+      ]
+    },
+    {
+      "id": 4,
+      "unit": 0,
+      "prompt": "Is a 28-day cycle diagram universal?",
+      "answer": "No",
+      "explanation": "Real cycles and timings vary.",
+      "options": [
+        "No",
+        "Always",
+        "Only on paper",
+        "Only for students"
+      ]
+    },
+    {
+      "id": 5,
+      "unit": 0,
+      "prompt": "Which organ's lining is shed during menstruation?",
+      "answer": "Uterus",
+      "explanation": "Use accurate, respectful anatomical language.",
+      "options": [
+        "Lung",
+        "Stomach",
+        "Kidney",
+        "Uterus"
+      ]
+    },
+    {
+      "id": 6,
+      "unit": 0,
+      "prompt": "Should this model be used to identify guaranteed safe days?",
+      "answer": "No",
+      "explanation": "A simplified calendar is not reliable contraception advice.",
+      "options": [
+        "Only with a coloured diagram",
+        "Only by counting to fourteen",
+        "No",
+        "Yes, always"
+      ]
+    },
+    {
+      "id": 7,
+      "unit": 0,
+      "prompt": "Which is a respectful response to periods?",
+      "answer": "Treat them as normal biology without teasing",
+      "explanation": "Privacy and dignity matter.",
+      "options": [
+        "Demand personal dates",
+        "Treat them as normal biology without teasing",
+        "Exclude people",
+        "Spread rumours"
+      ]
+    },
+    {
+      "id": 8,
+      "unit": 0,
+      "prompt": "Does this lesson need personal cycle information?",
+      "answer": "No",
+      "explanation": "It is a general teaching model, not a tracker.",
+      "options": [
+        "No",
+        "Every learner must submit it",
+        "Only names are required",
+        "Only private symptoms are required"
+      ]
+    },
+    {
+      "id": 9,
+      "unit": 0,
+      "prompt": "Name two organs involved in the modelled cycle.",
+      "answer": "Ovaries and uterus.",
+      "explanation": "Their roles are different."
+    },
+    {
+      "id": 10,
+      "unit": 0,
+      "prompt": "Describe what happens to the uterine lining during a period.",
+      "answer": "It is shed with bleeding.",
+      "explanation": "This is not the same event as ovulation."
+    },
+    {
+      "id": 11,
+      "unit": 0,
+      "prompt": "Describe what happens to the lining after menstruation in the model.",
+      "answer": "It builds up again.",
+      "explanation": "The simplified diagram leaves out detailed hormonal control."
+    },
+    {
+      "id": 12,
+      "unit": 0,
+      "prompt": "What does an ovary release at ovulation?",
+      "answer": "An egg.",
+      "explanation": "Timing is not identical for every person."
+    },
+    {
+      "id": 13,
+      "unit": 0,
+      "prompt": "Why is day 14 not a universal ovulation date?",
+      "answer": "Cycle lengths and ovulation timing vary.",
+      "explanation": "A model date is not a personal prediction."
+    },
+    {
+      "id": 14,
+      "unit": 0,
+      "prompt": "What may happen if pregnancy does not occur?",
+      "answer": "The lining can shed and another cycle begins.",
+      "explanation": "Real patterns can vary."
+    },
+    {
+      "id": 15,
+      "unit": 0,
+      "prompt": "Why should the animation be labelled an example?",
+      "answer": "It simplifies a variable biological process.",
+      "explanation": "A fixed diagram should not be mistaken for a rule."
+    },
+    {
+      "id": 16,
+      "unit": 0,
+      "prompt": "What information should learners not enter into this app?",
+      "answer": "Personal menstrual dates, symptoms or private health details.",
+      "explanation": "The app is not a clinical or tracking service."
+    },
+    {
+      "id": 17,
+      "unit": 0,
+      "prompt": "Why is teasing about periods harmful?",
+      "answer": "It undermines dignity and can discourage seeking support.",
+      "explanation": "Respect helps learning and wellbeing."
+    },
+    {
+      "id": 18,
+      "unit": 0,
+      "prompt": "What is the difference between menstruation and ovulation?",
+      "answer": "Menstruation sheds lining; ovulation releases an egg.",
+      "explanation": "The events are not interchangeable."
+    },
+    {
+      "id": 19,
+      "unit": 0,
+      "prompt": "Is the menstrual cycle identical to a calendar month?",
+      "answer": "No.",
+      "explanation": "Its timing is biological and variable."
+    },
+    {
+      "id": 20,
+      "unit": 0,
+      "prompt": "What should guide a personal health concern rather than this diagram?",
+      "answer": "Appropriate advice from a qualified health professional.",
+      "explanation": "A learning model cannot diagnose."
+    },
+    {
+      "id": 21,
+      "unit": 1,
+      "prompt": "What should happen when pain disrupts daily activities?",
+      "answer": "Seek appropriate health advice",
+      "explanation": "Troublesome pain deserves qualified assessment.",
+      "options": [
+        "Always ignore it",
+        "Diagnose it from a quiz",
+        "Use a peer's medicine",
+        "Seek appropriate health advice"
+      ]
+    },
+    {
+      "id": 22,
+      "unit": 1,
+      "prompt": "Which belongs in a respectful school support plan?",
+      "answer": "Private facilities and access to suitable products",
+      "explanation": "Practical support can protect dignity.",
+      "options": [
+        "Teasing",
+        "Forced personal disclosure",
+        "Private facilities and access to suitable products",
+        "Public symptom lists"
+      ]
+    },
+    {
+      "id": 23,
+      "unit": 1,
+      "prompt": "Who should assess concerning heavy bleeding?",
+      "answer": "A qualified health professional",
+      "explanation": "Symptoms can have different causes.",
+      "options": [
+        "A guessed social post",
+        "A qualified health professional",
+        "A class poll",
+        "An animation alone"
+      ]
+    },
+    {
+      "id": 24,
+      "unit": 1,
+      "prompt": "Should a learner share someone else's menstrual dates publicly?",
+      "answer": "No",
+      "explanation": "Personal health information is private.",
+      "options": [
+        "No",
+        "Always",
+        "Only for a joke",
+        "Only with a quiz score"
+      ]
+    },
+    {
+      "id": 25,
+      "unit": 1,
+      "prompt": "What should guide product use?",
+      "answer": "The product instructions and suitable health guidance",
+      "explanation": "Products differ and need correct care.",
+      "options": [
+        "An invented universal schedule",
+        "A social challenge",
+        "A guessed experiment",
+        "The product instructions and suitable health guidance"
+      ]
+    },
+    {
+      "id": 26,
+      "unit": 1,
+      "prompt": "Which is a safe peer response?",
+      "answer": "Offer respectful support and help contact a trusted adult",
+      "explanation": "Support is not diagnosis.",
+      "options": [
+        "Demand private details",
+        "Dismiss every concern",
+        "Offer respectful support and help contact a trusted adult",
+        "Prescribe medicine"
+      ]
+    },
+    {
+      "id": 27,
+      "unit": 1,
+      "prompt": "Does this lesson prescribe pain medicine?",
+      "answer": "No",
+      "explanation": "Personal treatment decisions need appropriate guidance.",
+      "options": [
+        "Only if symptoms are private",
+        "No",
+        "Yes, for everyone",
+        "Only from a classmate"
+      ]
+    },
+    {
+      "id": 28,
+      "unit": 1,
+      "prompt": "What if someone is faint or seriously unwell with severe symptoms?",
+      "answer": "Get prompt medical help through an adult or health service",
+      "explanation": "Serious symptoms should not be ignored.",
+      "options": [
+        "Get prompt medical help through an adult or health service",
+        "Wait for a quiz result",
+        "Post it publicly",
+        "Treat it as a joke"
+      ]
+    },
+    {
+      "id": 29,
+      "unit": 1,
+      "prompt": "Name one concern that merits health advice.",
+      "answer": "For example, pain disrupting activities or concerning heavy bleeding.",
+      "explanation": "A concern needs assessment rather than an online diagnosis."
+    },
+    {
+      "id": 30,
+      "unit": 1,
+      "prompt": "Name two practical school supports.",
+      "answer": "For example, private facilities and access to suitable products.",
+      "explanation": "Clean water, handwashing and a trusted adult also help."
+    },
+    {
+      "id": 31,
+      "unit": 1,
+      "prompt": "Why should severe pain not simply be dismissed?",
+      "answer": "It can affect wellbeing and may need medical assessment.",
+      "explanation": "Normal biology does not make every symptom harmless."
+    },
+    {
+      "id": 32,
+      "unit": 1,
+      "prompt": "How can a peer help without diagnosing?",
+      "answer": "Listen respectfully and help contact a trusted adult or health professional.",
+      "explanation": "Do not demand personal details."
+    },
+    {
+      "id": 33,
+      "unit": 1,
+      "prompt": "Why is someone else's medicine not a classroom recommendation?",
+      "answer": "Treatment suitability depends on the person and professional guidance.",
+      "explanation": "Do not share or prescribe medication."
+    },
+    {
+      "id": 34,
+      "unit": 1,
+      "prompt": "Why should health information not be posted in a group chat?",
+      "answer": "It can violate privacy and expose someone to stigma.",
+      "explanation": "Share general learning, not personal records."
+    },
+    {
+      "id": 35,
+      "unit": 1,
+      "prompt": "What should a plan say about handwashing?",
+      "answer": "Provide appropriate access and follow health guidance.",
+      "explanation": "Hygiene support should be practical and dignified."
+    },
+    {
+      "id": 36,
+      "unit": 1,
+      "prompt": "What is the role of a trusted adult?",
+      "answer": "Helping access support and suitable services.",
+      "explanation": "They should not require public disclosure."
+    },
+    {
+      "id": 37,
+      "unit": 1,
+      "prompt": "Why can a class quiz not diagnose menstrual problems?",
+      "answer": "It lacks individual clinical assessment.",
+      "explanation": "It tests knowledge, not health status."
+    },
+    {
+      "id": 38,
+      "unit": 1,
+      "prompt": "What should someone do about worrying changes?",
+      "answer": "Discuss them with a qualified health professional.",
+      "explanation": "Avoid assuming every change has the same cause."
+    },
+    {
+      "id": 39,
+      "unit": 1,
+      "prompt": "How can a poster be helpful without collecting symptoms?",
+      "answer": "Give general support routes and respectful information.",
+      "explanation": "Personal stories are not required."
+    },
+    {
+      "id": 40,
+      "unit": 1,
+      "prompt": "What should happen if a person is seriously unwell?",
+      "answer": "Seek prompt medical attention using appropriate local support.",
+      "explanation": "Do not let the lesson delay care."
+    },
+    {
+      "id": 41,
+      "unit": 2,
+      "prompt": "What are sperm and eggs?",
+      "answer": "Reproductive cells",
+      "explanation": "They are also called gametes.",
+      "options": [
+        "Chemical elements",
+        "Fire fuels",
+        "Pressure units",
+        "Reproductive cells"
+      ]
+    },
+    {
+      "id": 42,
+      "unit": 2,
+      "prompt": "What happens at fertilisation?",
+      "answer": "A sperm and egg fuse",
+      "explanation": "Fusion forms a fertilised egg.",
+      "options": [
+        "A microscope is focused",
+        "A cell wall becomes iron",
+        "A sperm and egg fuse",
+        "The uterine lining is shed"
+      ]
+    },
+    {
+      "id": 43,
+      "unit": 2,
+      "prompt": "What is a fertilised egg called?",
+      "answer": "Zygote",
+      "explanation": "Use the introductory biological term.",
+      "options": [
+        "Vacuole",
+        "Zygote",
+        "Chloroplast",
+        "Oxygen molecule"
+      ]
+    },
+    {
+      "id": 44,
+      "unit": 2,
+      "prompt": "Where does human fertilisation usually occur?",
+      "answer": "An oviduct or fallopian tube",
+      "explanation": "It is usually before implantation in the uterus.",
+      "options": [
+        "An oviduct or fallopian tube",
+        "The stomach",
+        "The lung",
+        "The outer skin"
+      ]
+    },
+    {
+      "id": 45,
+      "unit": 2,
+      "prompt": "Is fertilisation the same as implantation?",
+      "answer": "No",
+      "explanation": "They are distinct events.",
+      "options": [
+        "Always",
+        "Only in a diagram",
+        "Only on day 1",
+        "No"
+      ]
+    },
+    {
+      "id": 46,
+      "unit": 2,
+      "prompt": "Which event releases an egg before possible fertilisation?",
+      "answer": "Ovulation",
+      "explanation": "Release and fusion are different.",
+      "options": [
+        "Attachment to the uterine lining",
+        "A diagnosis",
+        "Ovulation",
+        "Fusion of sperm and egg"
+      ]
+    },
+    {
+      "id": 47,
+      "unit": 2,
+      "prompt": "What does the animation's marker timing represent?",
+      "answer": "A simplified teaching sequence",
+      "explanation": "It is schematic and not diagnostic.",
+      "options": [
+        "A medical test",
+        "A simplified teaching sequence",
+        "A personal pregnancy prediction",
+        "A universal exact timetable"
+      ]
+    },
+    {
+      "id": 48,
+      "unit": 2,
+      "prompt": "Which claim is appropriate for this introductory lesson?",
+      "answer": "Detailed early division stages are outside its scope",
+      "explanation": "The curriculum's scope is limited.",
+      "options": [
+        "Detailed early division stages are outside its scope",
+        "Every stage must be guessed",
+        "A diagram proves pregnancy",
+        "All pregnancies follow the animation clock"
+      ]
+    },
+    {
+      "id": 49,
+      "unit": 2,
+      "prompt": "Define gamete.",
+      "answer": "A reproductive cell such as a sperm or egg.",
+      "explanation": "The two cell types have roles in fertilisation."
+    },
+    {
+      "id": 50,
+      "unit": 2,
+      "prompt": "Name the two cells involved in fertilisation.",
+      "answer": "Sperm and egg.",
+      "explanation": "Their fusion forms a fertilised egg."
+    },
+    {
+      "id": 51,
+      "unit": 2,
+      "prompt": "Define fertilisation simply.",
+      "answer": "Fusion of a sperm and egg.",
+      "explanation": "It is not the same as implantation."
+    },
+    {
+      "id": 52,
+      "unit": 2,
+      "prompt": "Give another name for an oviduct.",
+      "answer": "Fallopian tube.",
+      "explanation": "This is the usual site of fertilisation."
+    },
+    {
+      "id": 53,
+      "unit": 2,
+      "prompt": "What does zygote mean?",
+      "answer": "Fertilised egg.",
+      "explanation": "The term names the result of fertilisation."
+    },
+    {
+      "id": 54,
+      "unit": 2,
+      "prompt": "Towards which organ can the early developing structure travel?",
+      "answer": "The uterus.",
+      "explanation": "The sequence is shown schematically."
+    },
+    {
+      "id": 55,
+      "unit": 2,
+      "prompt": "Why should the model not predict individual pregnancy timing?",
+      "answer": "Real biological processes vary and the animation is simplified.",
+      "explanation": "Medical assessment is different from a lesson."
+    },
+    {
+      "id": 56,
+      "unit": 2,
+      "prompt": "Distinguish release of an egg from fusion of gametes.",
+      "answer": "Release is ovulation; fusion is fertilisation.",
+      "explanation": "Use separate terms for separate events."
+    },
+    {
+      "id": 57,
+      "unit": 2,
+      "prompt": "Why is a labelled schematic useful?",
+      "answer": "It explains a process without claiming to be a literal photograph.",
+      "explanation": "Labels and assumptions matter."
+    },
+    {
+      "id": 58,
+      "unit": 2,
+      "prompt": "Does fertilisation usually occur in the stomach?",
+      "answer": "No, usually in an oviduct.",
+      "explanation": "Use accurate anatomy."
+    },
+    {
+      "id": 59,
+      "unit": 2,
+      "prompt": "What detail is deliberately omitted here?",
+      "answer": "For example, detailed hormonal control or early division stages.",
+      "explanation": "The scope follows the introductory curriculum."
+    },
+    {
+      "id": 60,
+      "unit": 2,
+      "prompt": "How should learners discuss reproductive cells?",
+      "answer": "With accurate, respectful scientific language.",
+      "explanation": "No personal disclosure is needed."
+    },
+    {
+      "id": 61,
+      "unit": 3,
+      "prompt": "Where does implantation normally occur in this lesson?",
+      "answer": "The uterine lining",
+      "explanation": "The uterus is distinct from the usual fertilisation site.",
+      "options": [
+        "The microscope eyepiece",
+        "The lung air space",
+        "The stomach",
+        "The uterine lining"
+      ]
+    },
+    {
+      "id": 62,
+      "unit": 3,
+      "prompt": "Which structure implants at this introductory level?",
+      "answer": "An early embryo at the blastocyst stage",
+      "explanation": "Detailed blastocyst formation is outside scope.",
+      "options": [
+        "A chloroplast",
+        "A metal atom",
+        "An early embryo at the blastocyst stage",
+        "An unfertilised egg in every cycle"
+      ]
+    },
+    {
+      "id": 63,
+      "unit": 3,
+      "prompt": "Which usually comes before implantation?",
+      "answer": "Fertilisation",
+      "explanation": "These are stages in a possible reproductive sequence.",
+      "options": [
+        "Every menstrual bleed",
+        "Fertilisation",
+        "A classroom quiz score",
+        "A completed microscope drawing"
+      ]
+    },
+    {
+      "id": 64,
+      "unit": 3,
+      "prompt": "Does every released egg become a pregnancy?",
+      "answer": "No",
+      "explanation": "Release, fertilisation and implantation are not guaranteed.",
+      "options": [
+        "No",
+        "Always",
+        "Only in a 28-day diagram",
+        "Only if a marker moves"
+      ]
+    },
+    {
+      "id": 65,
+      "unit": 3,
+      "prompt": "Can the animation diagnose pregnancy?",
+      "answer": "No",
+      "explanation": "It is an educational model.",
+      "options": [
+        "Always",
+        "Only on a phone",
+        "Only after a correct answer",
+        "No"
+      ]
+    },
+    {
+      "id": 66,
+      "unit": 3,
+      "prompt": "Which is the best distinction?",
+      "answer": "Fertilisation is fusion; implantation is attachment in the uterine lining",
+      "explanation": "The processes have different definitions.",
+      "options": [
+        "Both mean ovulation",
+        "Neither involves cells",
+        "Fertilisation is fusion; implantation is attachment in the uterine lining",
+        "Both mean menstruation"
+      ]
+    },
+    {
+      "id": 67,
+      "unit": 3,
+      "prompt": "What does the model omit?",
+      "answer": "Detailed early developmental stages",
+      "explanation": "It follows the introductory scope.",
+      "options": [
+        "The fact of biological variation",
+        "Detailed early developmental stages",
+        "All labels",
+        "The idea of a uterus"
+      ]
+    },
+    {
+      "id": 68,
+      "unit": 3,
+      "prompt": "What should guide a personal pregnancy concern?",
+      "answer": "Appropriate qualified health advice",
+      "explanation": "Personal concerns need suitable services.",
+      "options": [
+        "Appropriate qualified health advice",
+        "The marker's colour",
+        "A class vote",
+        "A guessed cycle day"
+      ]
+    },
+    {
+      "id": 69,
+      "unit": 3,
+      "prompt": "Define implantation simply.",
+      "answer": "Attachment and embedding of an early embryo in the uterine lining.",
+      "explanation": "It is distinct from gamete fusion."
+    },
+    {
+      "id": 70,
+      "unit": 3,
+      "prompt": "Name the organ whose lining is involved.",
+      "answer": "Uterus.",
+      "explanation": "It is not the usual site of fertilisation."
+    },
+    {
+      "id": 71,
+      "unit": 3,
+      "prompt": "Name the early stage mentioned in the curriculum for implantation.",
+      "answer": "Blastocyst.",
+      "explanation": "The detailed formation stages are not required here."
+    },
+    {
+      "id": 72,
+      "unit": 3,
+      "prompt": "State one event that can precede implantation.",
+      "answer": "Fertilisation.",
+      "explanation": "The sequence also includes earlier ovulation."
+    },
+    {
+      "id": 73,
+      "unit": 3,
+      "prompt": "Why say possible implantation rather than guaranteed implantation?",
+      "answer": "Not every fertilised egg implants successfully.",
+      "explanation": "A model sequence is not a guarantee."
+    },
+    {
+      "id": 74,
+      "unit": 3,
+      "prompt": "How does menstruation differ from implantation?",
+      "answer": "Menstruation sheds lining; implantation attaches an early embryo to it.",
+      "explanation": "Use accurate process names."
+    },
+    {
+      "id": 75,
+      "unit": 3,
+      "prompt": "Why is a coloured lining not proof of pregnancy?",
+      "answer": "It is a teaching symbol, not a real person's medical evidence.",
+      "explanation": "A diagram cannot diagnose."
+    },
+    {
+      "id": 76,
+      "unit": 3,
+      "prompt": "What is the usual difference in location between fertilisation and implantation?",
+      "answer": "Fertilisation is usually in an oviduct; implantation is in the uterus.",
+      "explanation": "Location helps distinguish the processes."
+    },
+    {
+      "id": 77,
+      "unit": 3,
+      "prompt": "Why are early division details not shown?",
+      "answer": "They are beyond this introductory lesson's scope.",
+      "explanation": "Omission should be stated, not filled with invented stages."
+    },
+    {
+      "id": 78,
+      "unit": 3,
+      "prompt": "What should learners avoid sharing in a public answer?",
+      "answer": "Private health information about themselves or others.",
+      "explanation": "General scientific explanations are enough."
+    },
+    {
+      "id": 79,
+      "unit": 3,
+      "prompt": "How can a model be useful without being diagnostic?",
+      "answer": "It explains definitions and sequence.",
+      "explanation": "Understanding a process is not assessing an individual."
+    },
+    {
+      "id": 80,
+      "unit": 3,
+      "prompt": "What should be done if the topic raises a personal concern?",
+      "answer": "Seek support from a trusted adult and appropriate health professional.",
+      "explanation": "The app should not delay or replace care."
+    },
+    {
+      "id": 81,
+      "unit": 4,
+      "prompt": "Can an STI be present without noticeable symptoms?",
+      "answer": "Yes",
+      "explanation": "Many infections can be asymptomatic.",
+      "options": [
+        "Never",
+        "Only if a diagram is missing",
+        "Only after a quiz",
+        "Yes"
+      ]
+    },
+    {
+      "id": 82,
+      "unit": 4,
+      "prompt": "Can symptoms alone confirm which STI someone has?",
+      "answer": "No",
+      "explanation": "Symptoms may be absent or have several causes.",
+      "options": [
+        "Only in a classroom",
+        "Only from a photograph",
+        "No",
+        "Always"
+      ]
+    },
+    {
+      "id": 83,
+      "unit": 4,
+      "prompt": "Which is an STI named in this lesson?",
+      "answer": "Gonorrhoea",
+      "explanation": "It is one of the curriculum examples.",
+      "options": [
+        "Magnification",
+        "Gonorrhoea",
+        "Rusting",
+        "Osmosis"
+      ]
+    },
+    {
+      "id": 84,
+      "unit": 4,
+      "prompt": "Are HIV and AIDS identical terms?",
+      "answer": "No",
+      "explanation": "HIV infection and AIDS describe different things.",
+      "options": [
+        "No",
+        "Always",
+        "Only in diagrams",
+        "Only when symptoms are absent"
+      ]
+    },
+    {
+      "id": 85,
+      "unit": 4,
+      "prompt": "Does ordinary hugging transmit HIV?",
+      "answer": "No",
+      "explanation": "Casual contact is not a reason for exclusion.",
+      "options": [
+        "Always",
+        "Only at school",
+        "Only while learning",
+        "No"
+      ]
+    },
+    {
+      "id": 86,
+      "unit": 4,
+      "prompt": "Which statement about condoms is accurate?",
+      "answer": "They reduce many STI risks when used correctly and consistently, but do not eliminate every risk",
+      "explanation": "Some infections can involve uncovered skin.",
+      "options": [
+        "They diagnose infection",
+        "They replace all health services",
+        "They reduce many STI risks when used correctly and consistently, but do not eliminate every risk",
+        "They guarantee zero risk in every situation"
+      ]
+    },
+    {
+      "id": 87,
+      "unit": 4,
+      "prompt": "Who should assess a personal STI concern?",
+      "answer": "A qualified health service",
+      "explanation": "Testing and care require appropriate support.",
+      "options": [
+        "An animation alone",
+        "A qualified health service",
+        "A class poll",
+        "A guessed appearance"
+      ]
+    },
+    {
+      "id": 88,
+      "unit": 4,
+      "prompt": "Which is a respectful response to someone seeking help?",
+      "answer": "Support privacy and access to care",
+      "explanation": "Stigma can discourage help-seeking.",
+      "options": [
+        "Support privacy and access to care",
+        "Spread a rumour",
+        "Demand their history",
+        "Exclude them from class"
+      ]
+    },
+    {
+      "id": 89,
+      "unit": 4,
+      "prompt": "Name two STIs included in this topic.",
+      "answer": "For example, gonorrhoea and syphilis.",
+      "explanation": "HIV and genital herpes are also named."
+    },
+    {
+      "id": 90,
+      "unit": 4,
+      "prompt": "Why does no visible symptom not prove no infection?",
+      "answer": "Many STIs can be asymptomatic.",
+      "explanation": "Appropriate testing may be needed."
+    },
+    {
+      "id": 91,
+      "unit": 4,
+      "prompt": "Give one possible symptom that needs qualified assessment.",
+      "answer": "For example, unusual discharge, sores or pain when urinating.",
+      "explanation": "Such symptoms do not by themselves prove an STI."
+    },
+    {
+      "id": 92,
+      "unit": 4,
+      "prompt": "Explain why appearance cannot establish STI status.",
+      "answer": "Infections can be invisible and symptoms are not specific.",
+      "explanation": "Do not judge or diagnose people."
+    },
+    {
+      "id": 93,
+      "unit": 4,
+      "prompt": "Give one prevention principle concerning sexual exposure.",
+      "answer": "Avoiding sexual contact prevents sexual exposure; condoms reduce many risks when used correctly and consistently.",
+      "explanation": "No simple classroom claim should promise elimination of every risk."
+    },
+    {
+      "id": 94,
+      "unit": 4,
+      "prompt": "Why should needles not be shared?",
+      "answer": "They can transmit infections and cause injury.",
+      "explanation": "Learners should not handle sharps."
+    },
+    {
+      "id": 95,
+      "unit": 4,
+      "prompt": "What is a safe response to an exposure concern?",
+      "answer": "Promptly seek guidance from a qualified health service with trusted support.",
+      "explanation": "Do not wait for an educational quiz to decide."
+    },
+    {
+      "id": 96,
+      "unit": 4,
+      "prompt": "Why should peers not share treatments?",
+      "answer": "Diagnosis and treatment depend on qualified assessment.",
+      "explanation": "The wrong medicine can be ineffective or harmful."
+    },
+    {
+      "id": 97,
+      "unit": 4,
+      "prompt": "Give one way to reduce stigma.",
+      "answer": "Use respectful language and protect privacy.",
+      "explanation": "Infection is not a reason to blame or exclude."
+    },
+    {
+      "id": 98,
+      "unit": 4,
+      "prompt": "What is wrong with excluding a learner because of an HIV rumour?",
+      "answer": "Rumours do not establish status, and casual contact does not spread HIV.",
+      "explanation": "Respect and safeguarding matter."
+    },
+    {
+      "id": 99,
+      "unit": 4,
+      "prompt": "What personal information does this app require for the lesson?",
+      "answer": "None about symptoms, menstrual history or sexual behaviour.",
+      "explanation": "It teaches general knowledge only."
+    },
+    {
+      "id": 100,
+      "unit": 4,
+      "prompt": "Who can support someone facing coercion or harm?",
+      "answer": "A trusted adult and appropriate health or safeguarding service.",
+      "explanation": "Safety and qualified support take priority."
+    }
+  ],
+  "flashcards": [
+    [
+      "Menstruation",
+      "Shedding of the uterine lining with bleeding."
+    ],
+    [
+      "Day 1",
+      "The first day of a period, not the first day of every calendar month."
+    ],
+    [
+      "Ovulation",
+      "Release of an egg from an ovary; timing varies."
+    ],
+    [
+      "Cycle model",
+      "An example, not a personal prediction or safe-days calculator."
+    ],
+    [
+      "Gametes",
+      "Reproductive cells: sperm and egg."
+    ],
+    [
+      "Fertilisation",
+      "Fusion of sperm and egg, usually in an oviduct."
+    ],
+    [
+      "Zygote",
+      "A fertilised egg."
+    ],
+    [
+      "Implantation",
+      "Attachment and embedding in the uterine lining."
+    ],
+    [
+      "STI uncertainty",
+      "Symptoms may be absent or non-specific; qualified assessment matters."
+    ],
+    [
+      "Respect",
+      "Protect privacy, avoid stigma and support access to care."
+    ]
+  ]
+}
